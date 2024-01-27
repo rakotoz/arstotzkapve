@@ -1,0 +1,809 @@
+{
+    "Version": "2.5",
+    "ConvertTraderConfigToTraderPlus": 0,
+    "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
+    "UseGarageToTradeCar": 1,
+    "DisableHeightFailSafeForReceiptDeployment": 0,
+    "HideInsuranceBtn": 1,
+    "HideGarageBtn": 0,
+    "HideLicenceBtn": 1,
+    "EnableShowAllPrices": 1,
+    "EnableShowAllCheckBox": 0,
+    "IsReceiptTraderOnly": 0,
+    "IsReceiptSaveLock": 0,
+    "IsReceiptSaveAttachment": 1,
+    "IsReceiptSaveCargo": 1,
+    "LockPickChance": 0.0,
+    "LicenceKeyWord": "Лицензия",
+    "Licences": [
+        "Admin Licence"
+    ],
+    "AcceptedStates": {
+        "AcceptWorn": 1,
+        "AcceptDamaged": 1,
+        "AcceptBadlyDamaged": 1,
+        "CoefficientWorn": 0.75,
+        "CoefficientDamaged": 0.5,
+        "CoefficientBadlyDamaged": 0.25
+    },
+    "StoreOnlyToPristineState": 0,
+    "Currencies": [
+        {
+            "ClassName": "TraderPlus_Money_Ruble500",
+            "Value": 500
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble100",
+            "Value": 100
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble50",
+            "Value": 50
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble20",
+            "Value": 20
+        },		
+        {
+            "ClassName": "TraderPlus_Money_Ruble10",
+            "Value": 10
+        }
+    ],
+    "Traders": [
+        {
+            "Id": 0,
+            "Name": "BVM_VendingMachine_food",
+            "GivenName": "Еда",
+            "Role": "Food Trader",
+            "Position": [
+                11598,
+                58,
+                14694
+            ],
+            "Orientation": [
+                54.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 1,
+            "Name": "BVM_VendingMachine_weapons",
+            "GivenName": "Оружие",
+            "Role": "Weapon Trader",
+            "Position": [
+                11599,
+                58,
+                14693
+            ],
+            "Orientation": [
+                54.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 2,
+            "Name": "BVM_VendingMachine_tools",
+            "GivenName": "Инструменты",
+            "Role": "Tool Trader",
+            "Position": [
+                11600,
+                58,
+                14692
+            ],
+            "Orientation": [
+                54.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 3,
+            "Name": "BVM_VendingMachine_clothing",
+            "GivenName": "Одежда",
+            "Role": "Clothes Trader",
+            "Position": [
+                11601,
+                58,
+                14691
+            ],
+            "Orientation": [
+                54.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 4,
+            "Name": "BVM_VendingMachine_vehicles",
+            "GivenName": "Машины",
+            "Role": "Car Trader",
+            "Position": [
+                11602,
+                58,
+                14690
+            ],
+            "Orientation": [
+                54.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 5,
+            "Name": "BVM_VendingMachine_medical",
+            "GivenName": "Медицина",
+            "Role": "Medical Trader",
+            "Position": [
+                11603,
+                58,
+                14689
+            ],
+            "Orientation": [
+                54.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 6,
+            "Name": "BVM_VendingMachine_hunting",
+            "GivenName": "Охотник",
+            "Role": "Hunting Trader",
+            "Position": [
+                2522.15,
+                361.684,
+                7559.91
+            ],
+            "Orientation": [
+                24.832,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 7,
+            "Name": "BVM_VendingMachine_military_clothing",
+            "GivenName": "Военная одежда",
+            "Role": "Military Clothing Trader",
+            "Position": [
+                11605,
+                58,
+                14687
+            ],
+            "Orientation": [
+                54.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 8,
+            "Name": "BVM_VendingMachine_ammunition",
+            "GivenName": "Улучшения",
+            "Role": "Ammunition Trader",
+            "Position": [
+                11606,
+                58,
+                14686
+            ],
+            "Orientation": [
+                54.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 9,
+            "Name": "BVM_VendingMachine_blackmarket",
+            "GivenName": "Черный торговец",
+            "Role": "Black Trader",
+            "Position": [
+                11607,
+                58,
+                14685
+            ],
+            "Orientation": [
+                54.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 10,
+            "Name": "BVM_VendingMachine_farming",
+            "GivenName": "Фермер",
+            "Role": "Farming Trader",
+            "Position": [
+                6654.75,
+                354.626,
+                8452.38
+            ],
+            "Orientation": [
+                -135,
+                -0.7562,
+                7.47117
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 11,
+            "Name": "BVM_VendingMachine_drugs",
+            "GivenName": "Барыга",
+            "Role": "Drugs Trader",
+            "Position": [
+                11609,
+                58,
+                14683
+            ],
+            "Orientation": [
+                54.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+		{
+            "Id": 0,
+            "Name": "BVM_VendingMachine_food",
+            "GivenName": "Еда",
+            "Role": "Food Trader",
+            "Position": [
+                9590.27,
+                241.311,
+                11382.2
+            ],
+            "Orientation": [
+                -141.199,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 1,
+            "Name": "BVM_VendingMachine_weapons",
+            "GivenName": "Оружие",
+            "Role": "Weapon Trader",
+            "Position": [
+                9559.26,
+                240.477,
+                11380.7
+            ],
+            "Orientation": [
+                127.919,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 2,
+            "Name": "BVM_VendingMachine_tools",
+            "GivenName": "Инструменты",
+            "Role": "Tool Trader",
+            "Position": [
+                9584.84,
+                241.278,
+                11386.5
+            ],
+            "Orientation": [
+                -140.723,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 3,
+            "Name": "BVM_VendingMachine_clothing",
+            "GivenName": "Одежда",
+            "Role": "Clothes Trader",
+            "Position": [
+                9575,
+                241.197,
+                11394.4
+            ],
+            "Orientation": [
+                -140.509,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 4,
+            "Name": "BVM_VendingMachine_vehicles",
+            "GivenName": "Машины",
+            "Role": "Car Trader",
+            "Position": [
+                9559.02,
+                239.77,
+                11371.7
+            ],
+            "Orientation": [
+                -138.003,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 5,
+            "Name": "BVM_VendingMachine_medical",
+            "GivenName": "Медицина",
+            "Role": "Medical Trader",
+            "Position": [
+                9593.25,
+                241.269,
+                11377.1
+            ],
+            "Orientation": [
+                -51.6158,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+		{
+            "Id": 7,
+            "Name": "BVM_VendingMachine_building",
+            "GivenName": "Строительство",
+            "Role": "Base Building Trader",
+            "Position": [
+                9582.55,
+                241.261,
+                11388.4
+            ],
+            "Orientation": [
+                -141.252,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 8,
+            "Name": "BVM_VendingMachine_ammunition",
+            "GivenName": "Патроны и улучшения",
+            "Role": "Ammunition Trader",
+            "Position": [
+                9556.9,
+                240.338,
+                11377.9
+            ],
+            "Orientation": [
+                127.791,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },		
+		{
+            "Id": 0,
+            "Name": "BVM_VendingMachine_food",
+            "GivenName": "Еда",
+            "Role": "Food Trader",
+            "Position": [
+                3686.51, 
+				402.054, 
+				5959.17                
+            ],
+            "Orientation": [
+                60.5883,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+		{
+            "Id": 5,
+            "Name": "BVM_VendingMachine_medical",
+            "GivenName": "Медицина",
+            "Role": "Medical Trader",
+            "Position": [
+                3685.14, 
+				402.054, 
+				5961.87                
+            ],
+            "Orientation": [
+                69.8279,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+		{
+            "Id": 1,
+            "Name": "BVM_VendingMachine_weapons",
+            "GivenName": "Оружие",
+            "Role": "Weapon Trader",
+            "Position": [
+                3725.3,
+				402.13,
+				5978.69
+            ],
+            "Orientation": [
+                -145.36,
+				0,
+				0
+            ],
+            "Clothes": []
+        },
+		{
+            "Id": 8,
+            "Name": "BVM_VendingMachine_ammunition",
+            "GivenName": "Патроны и улучшения",
+            "Role": "Ammunition Trader",
+            "Position": [
+                3726.26,
+				402.13,
+				5975.67
+            ],
+            "Orientation": [
+                -73.3572,
+				0,
+				0
+            ],
+            "Clothes": []
+        },
+		{
+            "Id": 3,
+            "Name": "BVM_VendingMachine_clothing",
+            "GivenName": "Одежда",
+            "Role": "Clothes Trader",
+            "Position": [
+                3727.04,
+				402.095,
+				5972.24
+            ],
+            "Orientation": [
+                -135.357,
+				0,
+				0
+            ],
+            "Clothes": []
+        },
+		{
+            "Id": 2,
+            "Name": "BVM_VendingMachine_tools",
+            "GivenName": "Инструменты",
+            "Role": "Tool Trader",
+            "Position": [
+                3722.69,
+				402.254,
+				5959.99
+            ],
+            "Orientation": [
+                -29.4548,
+				0,
+				0
+            ],
+            "Clothes": []
+        },
+		{
+            "Id": 7,
+            "Name": "BVM_VendingMachine_building",
+            "GivenName": "Строительство",
+            "Role": "Base Building Trader",
+            "Position": [
+                3719.97,
+				402.138,
+				5958.9
+            ],
+            "Orientation": [
+                60.4805,
+				0,
+				0
+            ],
+            "Clothes": []
+        },
+		{
+            "Id": 9,
+            "Name": "BVM_VendingMachine_blackmarket",
+            "GivenName": "Черный торговец",
+            "Role": "Black Trader",
+            "Position": [
+                12542.9,
+				154.769,
+				6709.86
+            ],
+            "Orientation": [
+                -7.64489,
+				0,
+				0
+            ],
+            "Clothes": []
+        },
+		{
+            "Id": 12,
+            "Name": "BVM_VendingMachine_blackmarket",
+            "GivenName": "Черный торговец - машины",
+            "Role": "Black Trader",
+            "Position": [
+                12533.7,
+				156.325,
+				6731.83
+            ],
+            "Orientation": [
+                51.0124,
+				0,
+				0
+            ],
+            "Clothes": []
+        }		
+    ],
+    "TraderObjects": [
+        {
+            "ObjectName": "bldr_Misc_RoadBarrier",
+            "Position": [
+                11537.2001953125,
+                59.0,
+                14726.099609375
+            ],
+            "Orientation": [
+                55.000003814697269,
+                0.0,
+                0.0
+            ]
+        },
+		{
+            "ObjectName": "bldr_Misc_RoadBarrier",
+            "Position": [
+                11537.2001953125,
+                59.0,
+                14726.099609375
+            ],
+            "Orientation": [
+                55.000003814697269,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "bldr_Wall_Barricade1_10",
+            "Position": [
+                11590.5498046875,
+                58.224754333496097,
+                14760.6728515625
+            ],
+            "Orientation": [
+                144.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "bldr_Wall_Barricade1_4",
+            "Position": [
+                11615.189453125,
+                57.636619567871097,
+                14626.82421875
+            ],
+            "Orientation": [
+                153.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "bldr_Misc_Barricade",
+            "Position": [
+                11613.2607421875,
+                57.99546432495117,
+                14622.95703125
+            ],
+            "Orientation": [
+                54.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "Land_Wreck_S1023_Blue",
+            "Position": [
+                11596.6044921875,
+                58.728797912597659,
+                14630.3427734375
+            ],
+            "Orientation": [
+                -135.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "Land_Wreck_Lada_Red",
+            "Position": [
+                11598.5400390625,
+                58.41791915893555,
+                14628.796875
+            ],
+            "Orientation": [
+                171.99954223632813,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "bldr_Wall_Barricade1_4",
+            "Position": [
+                11593.5087890625,
+                57.81910705566406,
+                14632.2060546875
+            ],
+            "Orientation": [
+                63.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "bldr_Wall_Barricade1_10",
+            "Position": [
+                11609.3408203125,
+                58.077457427978519,
+                14766.326171875
+            ],
+            "Orientation": [
+                54.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "bldr_Wall_Barricade1_4",
+            "Position": [
+                11593.5087890625,
+                57.81910705566406,
+                14632.2060546875
+            ],
+            "Orientation": [
+                63.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "bldr_hbarrier_4m",
+            "Position": [
+                11664.1875,
+                57.7883186340332,
+                14659.564453125
+            ],
+            "Orientation": [
+                -36.00001525878906,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "bldr_hbarrier_4m",
+            "Position": [
+                11654.0380859375,
+                58.30573272705078,
+                14652.6845703125
+            ],
+            "Orientation": [
+                -36.00001525878906,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "bldr_hbarrier_4m",
+            "Position": [
+                11656.80078125,
+                58.16636657714844,
+                14653.1533203125
+            ],
+            "Orientation": [
+                53.900001525878909,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "bldr_hbarrier_4m",
+            "Position": [
+                11662.8837890625,
+                57.84144973754883,
+                14657.0732421875
+            ],
+            "Orientation": [
+                53.900001525878909,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "Land_City_Stand_FastFood",
+            "Position": [
+                11594.310546875,
+                59.78278350830078,
+                14673.0546875
+            ],
+            "Orientation": [
+                -117.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "Land_Misc_TrailRoof_Small",
+            "Position": [
+                11598.7998046875,
+                59.28260040283203,
+                14669.2001953125
+            ],
+            "Orientation": [
+                62.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "Land_Misc_TrailRoof_Small",
+            "Position": [
+                11600.9658203125,
+                59.28261184692383,
+                14665.07421875
+            ],
+            "Orientation": [
+                62.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "Land_Misc_Well_Pump_Yellow",
+            "Position": [
+                11610.8466796875,
+                58.61098861694336,
+                14674.2265625
+            ],
+            "Orientation": [
+                126.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "Land_Garage_Office",
+            "Position": [
+                11627.701171875,
+                67.97467041015625,
+                14805.9326171875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "Land_Garage_Small",
+            "Position": [
+                11615.798828125,
+                59.178348541259769,
+                14687.2724609375
+            ],
+            "Orientation": [
+                50.0,
+                0.0,
+                0.0
+            ]
+        }
+    ]
+}

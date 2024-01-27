@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 1,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Добраться до Зеленой Горы",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        3719.56005859375,
+        402.0119934082031,
+        5997.14013671875
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "Зеленая Гора",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

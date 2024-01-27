@@ -1,0 +1,111 @@
+{
+    "ModVersion": "2.13",
+    "MenuDelay": 1.0,
+    "startCurrency": 0,
+    "maxCurrency": 10000000,
+    "IsClanAccountActive": 0,
+    "CostsToCreateClan": 5000,
+    "CostsToInviteAnPlayer": 1000,
+    "MaxClanAccountLimit": 200000,
+    "MaxPlayersInClan": -1,
+    "MinAmountToTransfer": 1000,
+    "TransferfeesInProcent": 1,
+    "IsRobEventActive": 0,
+    "MinPlayersForRob": 5,
+    "MinMoneyForRob": 1000,
+    "MaxMoneyForRob": 5000,
+    "TimeInSecToRobATM": 120,
+    "RobMessagesActive": 1,
+    "PayCheckValue": 500,
+    "PayCheckTickTime": 60,
+    "IsPayCheckMessageActive": 1,
+    "CanAddPayCheckInSafezone": 1,
+    "PayCheckMessage": "Ваше пособие в размере %Amount% было добавлено на ваш счет!",
+    "MinPlayersForPayCheck": 1,
+    "CanAddToFullAcc": 0,
+    "NeedsBankCardToOpenMenu": 0,
+    "m_LoggingSettings": {
+        "m_LogMode": 3,
+        "m_LogDepositOwnBank": 1,
+        "m_LogWithdraw": 1,
+        "m_LogClanDeposit": 1,
+        "m_LogClanWithdraw": 1,
+        "m_LogCreateClanAccount": 0,
+        "m_LogDeleteClanAccount": 0,
+        "m_LogInviteMember": 0,
+        "m_LogUpdatePermission": 1
+    },
+    "m_DiscordWebhook": {
+        "m_UseWebhook": 1,
+        "m_WebhookURL": "https://discord.com/api/webhooks/1178985583968796742/ovg77kZsTSUi81r8JhuUTbrCVUajd7B01U40h-i98it5aWqctuNxoJbUIN9q21QsAkZR",
+        "m_LogDepositToDiscord": 1,
+        "m_LogWithdrawToDiscord": 1,
+        "m_LogClanDepositToDiscord": 1,
+        "m_LogClanWithdrawToDiscord": 1,
+        "m_LogClanCreateToDiscord": 0,
+        "m_LogClanInviteMemberToDiscord": 0,
+        "m_LogClanRemoveMemberToDiscord": 0,
+        "m_LogClanUpdatePermissionToDiscord": 0,
+        "m_LogClanKickMemberToDiscord": 0,
+        "m_LogPlayerMoneyTransefer": 1,
+        "m_LogPlayerATMRobbery": 1,
+        "m_AdminLogUpdateServerConfig": 1,
+        "m_AdminLogUpdatePlayerData": 1,
+        "m_AdminLogUpdateClanData": 1,
+        "m_AdminLogUseMisc": 1
+    },
+    "ATM": [
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                11611.6689453125,
+                58.0,
+                14687.8720703125
+            ],
+            "Direction": [
+                140.0,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                9560.5302734375,
+                240.35800170898438,
+                11371.900390625
+            ],
+            "Direction": [
+                -141.6157989501953,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        }
+    ],
+    "BankingCurrency": [
+        {
+            "CurrencyName": "TraderPlus_Money_Ruble500",
+            "CurrencyValue": 500
+        },
+        {
+            "CurrencyName": "TraderPlus_Money_Ruble100",
+            "CurrencyValue": 100
+        },
+        {
+            "CurrencyName": "TraderPlus_Money_Ruble50",
+            "CurrencyValue": 50
+        },
+        {
+            "CurrencyName": "TraderPlus_Money_Ruble20",
+            "CurrencyValue": 20
+        },
+        {
+            "CurrencyName": "TraderPlus_Money_Ruble10",
+            "CurrencyValue": 10
+        }
+    ]
+}

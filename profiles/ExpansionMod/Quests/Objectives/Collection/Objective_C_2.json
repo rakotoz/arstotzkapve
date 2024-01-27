@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 2,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Собрать 5 волчьих шкур",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 5,
+            "ClassName": "WolfPelt",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        }
+    ],
+    "ShowDistance": 1,
+    "NeedAnyCollection": 0
+}

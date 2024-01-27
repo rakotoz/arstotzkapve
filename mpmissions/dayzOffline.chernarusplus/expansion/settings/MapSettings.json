@@ -1,0 +1,163 @@
+{
+    "m_Version": 5,
+    "EnableMap": 1,
+    "UseMapOnMapItem": 1,
+    "ShowPlayerPosition": 1,
+    "ShowMapStats": 1,
+    "NeedPenItemForCreateMarker": 0,
+    "NeedGPSItemForCreateMarker": 0,
+    "CanCreateMarker": 1,
+    "CanCreate3DMarker": 1,
+    "CanOpenMapWithKeyBinding": 1,
+    "ShowDistanceOnPersonalMarkers": 1,
+    "EnableHUDGPS": 1,
+    "NeedGPSItemForKeyBinding": 0,
+    "NeedMapItemForKeyBinding": 0,
+    "EnableServerMarkers": 1,
+    "ShowNameOnServerMarkers": 1,
+    "ShowDistanceOnServerMarkers": 1,
+    "ServerMarkers": [
+        {
+            "m_UID": "ServerMarker_Trader_Zelenaya_Gora",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Трейдер - Зеленая гора",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                3702.16,
+                405,
+                5990.19
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Trader_Bardak",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Трейдер - Бардак",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                9565.1,
+                242.0,
+                11364.0
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Hunter",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Охотник",
+            "m_IconName": "Knife",
+            "m_Color": -13710223,
+            "m_Position": [
+                2532.51,
+                362.0,
+                7563.4
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_farmer",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Фермер",
+            "m_IconName": "Carrot",
+            "m_Color": -13710223,
+            "m_Position": [
+                6654.88,
+                355.0,
+                8444.73
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Black_Market",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Черный торговец",
+            "m_IconName": "Human Skull",
+            "m_Color": -13710223,
+            "m_Position": [
+                12537.2,
+                157.0,
+                6717.29
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Rify",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Токсичная зона - Рифы",
+            "m_IconName": "Gas Mask",
+            "m_Color": -923658730,
+            "m_Position": [
+                13837.5,
+                33.0,
+                11151.1
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+		{
+            "m_UID": "ServerMarker_Tisy",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Токсичная зона - Тисы",
+            "m_IconName": "Gas Mask",
+            "m_Color": -923658730,
+            "m_Position": [
+                1689.88,
+                452.73,
+                14077.5
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+		{
+            "m_UID": "ServerMarker_Prison",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Опасная зона - Тюрьма",
+            "m_IconName": "Infected 1",
+            "m_Color": -923658730,
+            "m_Position": [
+                2682.69,
+                24,
+                1312.27
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+		{
+            "m_UID": "ServerMarker_Island",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Опасная зона - Остров",
+            "m_IconName": "Infected 2",
+            "m_Color": -923658730,
+            "m_Position": [
+                13615.5,
+                42.0,
+                3047.25
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        }
+    ],
+    "EnableHUDCompass": 1,
+    "NeedCompassItemForHUDCompass": 0,
+    "NeedGPSItemForHUDCompass": 0,
+    "CompassColor": -1,
+    "CreateDeathMarker": 1,
+    "PlayerLocationNotifier": 1,
+    "CompassBadgesColor": -1946157056
+}

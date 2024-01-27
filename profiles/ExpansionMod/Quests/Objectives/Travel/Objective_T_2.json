@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 2,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Оружие",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        3724.719970703125,
+        402.1300048828125,
+        5976.75
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Оружие",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

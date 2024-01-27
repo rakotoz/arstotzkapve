@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 7,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Охотник",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        2529.330078125,
+        360.6130065917969,
+        7556.18017578125
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Охотник",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

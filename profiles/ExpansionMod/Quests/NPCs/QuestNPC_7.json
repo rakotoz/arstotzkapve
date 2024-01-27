@@ -1,0 +1,34 @@
+{
+    "ConfigVersion": 6,
+    "ID": 7,
+    "ClassName": "ExpansionQuestNPCAIHassan",
+    "Position": [
+        2517.909912109375,
+        359.8280029296875,
+        7555.009765625
+    ],
+    "Orientation": [
+        113.91899871826172,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Сергей",
+    "DefaultNPCText": "Если интресует мясо,шкуры - посмотри в торговом автомате",
+    "Waypoints": [
+        [
+            2517.909912109375,
+            359.8280029296875,
+            7555.009765625
+        ]
+    ],
+    "NPCEmoteID": 25,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "GorkaLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}

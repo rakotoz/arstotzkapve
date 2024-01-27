@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 8,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Фермер",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6655.48,
+        354.051,
+        8445.07
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Фермер",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

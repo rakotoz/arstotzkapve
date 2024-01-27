@@ -1,0 +1,57 @@
+{
+    "ConfigVersion": 21,
+    "ID": 8,
+    "Type": 1,
+    "Title": "Пролог. Фермерство 1",
+    "Descriptions": [
+        "Так, ну базовые навыки охоты теперь у тебя есть, пора бы научиться и фермерству."
+    ],
+    "ObjectiveText": "Добраться до фермера",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TraderPlus_Money_Ruble100",
+            "Amount": 2,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        7
+    ],
+    "QuestTurnInIDs": [
+        6
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 8,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -930200403,
+    "PreQuestIDs": [7],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

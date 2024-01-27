@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 4,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Найти 2 пачки семян томатов.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 2,
+            "ClassName": "TomatoSeedsPack",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        }
+    ],
+    "ShowDistance": 1,
+    "NeedAnyCollection": 0
+}

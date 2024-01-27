@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 5,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Медицина и еда",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        3687.679931640625,
+        402.0539855957031,
+        5961.31005859375
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Медицина и еда",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

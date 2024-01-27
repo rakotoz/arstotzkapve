@@ -1,0 +1,10 @@
+{
+    "ImmbLogLevel": 0,
+    "Tool": "Hammer",
+    "ToolDamage": 10.0,
+    "UnlockDuration": 5.0,
+    "UnlockChance": 0.5,
+    "Admins": [
+        "SteamAdminID"
+    ]
+}

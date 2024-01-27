@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 3,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Одежда",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        3726.3701171875,
+        402.0950012207031,
+        5970.0498046875
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Одежда",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}
