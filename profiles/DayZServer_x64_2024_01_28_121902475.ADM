@@ -1,0 +1,167 @@
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 15:58:20
+15:59:46 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+16:00:27 | [COT] 76561198021410320: Spawned Entity Денежная купюра номиналом в 1 кредит. Выпущена до начала эпидемии и являются крайне ценной. (ItemBase<23b9fe30>, 500, 100, 0) at <3712.086182, 402.000000, 5998.722168>
+16:00:27 | [COT] 76561198021410320: Spawned Entity Денежная купюра номиналом в 5 кредитов. Выпущена до начала эпидемии и являются крайне ценной. (ItemBase<23ba4820>, 500, 100, 0) at <3712.078613, 402.009644, 5998.719727>
+16:00:29 | [COT] 76561198021410320: Spawned Entity Денежная купюра номиналом в 20 кредитов. Выпущена до начала эпидемии и являются крайне ценной. (ItemBase<23ba5d40>, 500, 100, 0) at <3712.069580, 402.019287, 5998.713379>
+16:00:31 | [COT] 76561198021410320: Spawned Entity Денежная купюра номиналом в 50 кредитов. Выпущена до начала эпидемии и являются крайне ценной. (ItemBase<23ba1350>, 500, 100, 0) at <3712.063721, 402.028931, 5998.709473>
+16:00:32 | [COT] 76561198021410320: Spawned Entity Денежная купюра номиналом в 100 кредитов. Выпущена до начала эпидемии и являются крайне ценной. (ItemBase<23ba08c0>, 500, 100, 0) at <3712.054199, 402.038574, 5998.702148>
+16:00:33 | [COT] 76561198021410320: Spawned Entity Денежная купюра номиналом в 500 кредитов. Выпущена до начала эпидемии и являются крайне ценной. (ItemBase<23bb10d0>, 500, 100, 0) at <3712.045410, 402.048218, 5998.693848>
+16:01:56 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 16:52:24
+16:54:09 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+16:57:06 | [COT] 76561198021410320: Spawned Entity 1 (WoodenCrate<ae650f00>, 100, 10000, 0) at <3717.145264, 402.070770, 5969.693848>
+17:01:06 | [COT] 76561198021410320: Entered the Free Camera
+17:01:14 | [COT] 76561198021410320: Left the Free Camera
+17:02:07 | [COT] 76561198021410320: Entered the Free Camera
+17:02:13 | [COT] 76561198021410320: Left the Free Camera
+17:04:48 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:6799 at <3698.209961, 402.011993, 6003.259766>
+17:04:50 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:4162 at <3698.209961, 402.011993, 6003.259766>
+17:04:51 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:7438 at <3698.209961, 402.011993, 6003.259766>
+17:04:52 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:7727 at <3698.209961, 402.011993, 6003.259766>
+17:04:54 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:6924 at <3698.209961, 402.011993, 6003.259766>
+17:04:55 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:7378 at <3698.209961, 402.011993, 6003.259766>
+17:04:57 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:7215 at <3698.209961, 402.011993, 6003.259766>
+17:04:58 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:6865 at <3698.209961, 402.011993, 6003.259766>
+17:05:00 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:8603 at <3698.209961, 402.011993, 6003.259766>
+17:05:01 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:8025 at <3698.209961, 402.011993, 6003.259766>
+17:05:02 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:7089 at <3698.209961, 402.011993, 6003.259766>
+17:05:03 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:4479 at <3698.209961, 402.011993, 6003.259766>
+17:05:06 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:6986 at <3698.209961, 402.011993, 6003.259766>
+17:05:07 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:8669 at <3698.209961, 402.011993, 6003.259766>
+17:05:08 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:7617 at <3698.209961, 402.011993, 6003.259766>
+17:05:11 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:7509 at <3698.209961, 402.011993, 6003.259766>
+17:05:13 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:7130 at <3698.209961, 402.011993, 6003.259766>
+17:05:15 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:7103 at <3698.209961, 402.011993, 6003.259766>
+17:07:25 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 18:52:06
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 19:28:16
+19:30:35 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+19:32:46 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 19:44:04
+19:45:05 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+19:47:07 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 19:50:26
+19:55:37 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+20:01:11 | [COT] 76561198021410320: Spawned Entity Кредитная карта (LB_ATM_Credit_Card_Base<b38dca10>, 100, 100, 0) at <3703.296875, 402.000000, 5983.670410>
+20:01:20 | [COT] 76561198021410320: Spawned Entity Кредитная карта (LB_ATM_Credit_Card_Black<b38d9fd0>, 100, 100, 0) at <3703.112793, 402.000000, 5983.542480>
+20:01:58 | [COT] 76561198021410320: Set GodMode To true [guid=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=]
+20:10:06 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 20:10:09
+20:11:06 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+20:55:26 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 22:07:22
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 22:08:05
+22:10:02 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+22:10:25 | [COT] 76561198021410320: Entered the Free Camera
+22:10:26 | [COT] 76561198021410320: Left the Free Camera
+22:10:53 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 22:18:52
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 22:19:58
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 22:37:39
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 22:40:25
+22:42:06 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+22:42:53 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 22:46:33
+22:48:14 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+22:48:49 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 22:54:57
+22:55:46 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+22:56:34 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 22:57:13
+22:58:09 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+22:58:36 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 23:00:00
+23:00:49 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+23:13:21 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+23:14:33 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+23:15:11 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 23:15:12
+23:15:52 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+23:17:00 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 23:17:41
+23:18:19 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+23:19:33 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 23:20:50
+23:21:33 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+23:22:33 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 23:23:39
+23:24:18 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+23:24:50 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 23:25:19
+23:25:58 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+23:28:09 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-27 at 23:29:57
+23:30:40 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+23:31:47 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+**********************************EOF****************************************

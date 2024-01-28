@@ -2,16 +2,16 @@
     {
         "version": 4,
         "classname": "LB_ATM_Green",
-      "position": [
-        3716.14990234375,
-        402.1059875488281,
-        5976.7099609375
-      ],
-      "orientation": [
-        -5.545219898223877,
-        0.0,
-        0.0
-      ],
+        "position": [
+            3716.14990234375,
+            402.1059875488281,
+            5976.7099609375
+        ],
+        "orientation": [
+            -5.545219898223877,
+            0.0,
+            0.0
+        ],
         "robPosition": "Green Mountain",
         "canDepositMoney": 1,
         "canWithdrawMoney": 1,
@@ -32,7 +32,7 @@
         "lastLockedTimestamp": 0,
         "lastRobTime": 0,
         "useDepositedCashToCalculateRobbedMoney": 0,
-        "cashDeposited": 2475,
+        "cashDeposited": 2495,
         "depositedCashIncreasePerMin": 20,
         "robbedDepositedCashPercent": 0.10000000149011612,
         "maxMoneyRobbedFromDepositedMoney": 20000,
