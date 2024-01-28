@@ -1,187 +1,298 @@
 {
-    "Version": "2.5",
-    "IDs": [
-        {
-            "Id": 0,
-            "Categories": [
-                "Консервы",
-                "Напитки",
-                "Фляги"
-            ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
-        },
-        {
-            "Id": 1,
-            "Categories": [
-                "Ближний бой",
-                "Пистолеты",
-                "Винтовки",
-                "Ружья",
-                "Пистолет-пулеметы",
-                "Штурмовые винтовки",
-                "Снайперские винтовки"
-            ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
-        },
-        {
-            "Id": 2,
-            "Categories": [
-                "Инструменты (маленькие)",
-                "Инструменты (большие)"
-            ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
-        },
-        {
-            "Id": 3,
-            "Categories": [
-                "Очки",
-				"Шляпы",
-				"Шлемы",
-				"Аксессуары для шлема",
-				"Маски",
-				"Куртки",
-				"Жилеты",
-				"Карабины",
-                "Перчатки",
-				"Ремни",
-                "Штаны",
-                "Обувь",
-                "Рюкзаки"
-            ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
-        },
-        {
-            "Id": 4,
-            "Categories": [
-                "Машины",
-                "Запчасти",
-                "Запчасти Camper",
-                "Запчасти Chevrolet Camaro",
-                "Запчасти Conqueror",
-                "Запчасти Cougar",
-                "Запчасти HAMMER",
-                "Запчасти Interceptor",
-                "Запчасти Kamaz 4350",
-                "Запчасти LandCruiser",
-                "Запчасти LUAZ",
-                "Запчасти MUSTANG",
-                "Запчасти Nissan Warrior",
-                "Запчасти Niva Pickup",
-                "Запчасти Novator",
-                "Запчасти Range Rover",
-                "Запчасти ROVER",
-                "Запчасти SCOUT",
-                "Запчасти SUV",
-                "Запчасти TLC 200",
-                "Запчасти UAZ 3909",
-                "Запчасти VAZ 2108"
-            ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
-        },
-        {
-            "Id": 5,
-            "Categories": [
-                "Медицинские товары",
-                "Таблетки",
-                "Хим.защита"
-            ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
-        },
-        {
-            "Id": 6,
-            "Categories": [
-                "Мясо",
-                "Рыба",
-                "Части животных",
-				"Готовка",
-                "Рыболовные принадлежности",
-                "Трофеи"
-            ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
-        },
-        {
-            "Id": 7,
-            "Categories": [
-				"Электроника",
-                "Освещение",
-                "Строительство"					
-            ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
-        },
-        {
-            "Id": 8,
-            "Categories": [
-                "Гранаты",
-                "Патроны",
-                "Магазины",
-                "Улучшения",
-                "Прицелы",
-                "Глушители"
-            ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
-        },
-        {
-            "Id": 9,
-            "Categories": [
-                "Неотсортированное"
-            ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
-        },
-        {
-            "Id": 10,
-            "Categories": [
-			    "Семена",
-				"Овощи",
-                "Drugs"
-			],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
-        },
-        {
-            "Id": 11,
-            "Categories": [
-                "ТОП Оружие"
-            ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
-        },
-        {
-            "Id": 12,
-            "Categories": [],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
-        },
-        {
-            "Id": 13,
-            "Categories": [
-                "Приборы ночного видения",
-                "Военные маски/Балаклава",
-                "Военные куртки",
-                "Разгрузки",
-                "Карманы на разгрузку",
-                "Кобура",
-                "Ножны",
-                "Бронежилеты",
-                "Тяжелая броня",
-                "Тактические перчатки",
-                "Военные штаны",
-                "Военная обувь",
-                "Тактические рюкзаки",
-                "Маскировка",
-                "Нашивки"
-            ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
-        }
-    ]
+  "Version": "2.5",
+  "IDs": [
+    {
+      "Id": 0,
+      "Categories": [
+        "Консервы",
+        "Напитки",
+        "Фляги"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 0,
+      "Categories": [
+        "Консервы",
+        "Напитки",
+        "Фляги"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 1,
+      "Categories": [
+        "Ближний бой",
+        "Пистолеты",
+        "Винтовки",
+        "Ружья",
+        "Пистолет-пулеметы",
+        "Штурмовые винтовки",
+        "Снайперские винтовки"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 1,
+      "Categories": [
+        "Ближний бой",
+        "Пистолеты",
+        "Винтовки",
+        "Ружья",
+        "Пистолет-пулеметы",
+        "Штурмовые винтовки",
+        "Снайперские винтовки"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 2,
+      "Categories": [
+        "Инструменты (маленькие)",
+        "Инструменты (большие)"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 2,
+      "Categories": [
+        "Инструменты (маленькие)",
+        "Инструменты (большие)"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 3,
+      "Categories": [
+        "Очки",
+        "Шляпы",
+        "Шлемы",
+        "Аксессуары для шлема",
+        "Маски",
+        "Куртки",
+        "Жилеты",
+        "Карабины",
+        "Перчатки",
+        "Ремни",
+        "Штаны",
+        "Обувь",
+        "Рюкзаки"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 3,
+      "Categories": [
+        "Очки",
+        "Шляпы",
+        "Шлемы",
+        "Аксессуары для шлема",
+        "Маски",
+        "Куртки",
+        "Жилеты",
+        "Карабины",
+        "Перчатки",
+        "Ремни",
+        "Штаны",
+        "Обувь",
+        "Рюкзаки"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 4,
+      "Categories": [
+        "Машины",
+        "Запчасти",
+        "Запчасти Camper",
+        "Запчасти Chevrolet Camaro",
+        "Запчасти Conqueror",
+        "Запчасти Cougar",
+        "Запчасти HAMMER",
+        "Запчасти Interceptor",
+        "Запчасти Kamaz 4350",
+        "Запчасти LandCruiser",
+        "Запчасти LUAZ",
+        "Запчасти MUSTANG",
+        "Запчасти Nissan Warrior",
+        "Запчасти Niva Pickup",
+        "Запчасти Novator",
+        "Запчасти Range Rover",
+        "Запчасти ROVER",
+        "Запчасти SCOUT",
+        "Запчасти SUV",
+        "Запчасти TLC 200",
+        "Запчасти UAZ 3909",
+        "Запчасти VAZ 2108"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 4,
+      "Categories": [
+        "Машины",
+        "Запчасти",
+        "Запчасти Camper",
+        "Запчасти Chevrolet Camaro",
+        "Запчасти Conqueror",
+        "Запчасти Cougar",
+        "Запчасти HAMMER",
+        "Запчасти Interceptor",
+        "Запчасти Kamaz 4350",
+        "Запчасти LandCruiser",
+        "Запчасти LUAZ",
+        "Запчасти MUSTANG",
+        "Запчасти Nissan Warrior",
+        "Запчасти Niva Pickup",
+        "Запчасти Novator",
+        "Запчасти Range Rover",
+        "Запчасти ROVER",
+        "Запчасти SCOUT",
+        "Запчасти SUV",
+        "Запчасти TLC 200",
+        "Запчасти UAZ 3909",
+        "Запчасти VAZ 2108"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 5,
+      "Categories": [
+        "Медицинские товары",
+        "Таблетки",
+        "Хим.защита"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 5,
+      "Categories": [
+        "Медицинские товары",
+        "Таблетки",
+        "Хим.защита"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 6,
+      "Categories": [
+        "Мясо",
+        "Рыба",
+        "Части животных",
+        "Готовка"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 7,
+      "Categories": [
+        "Электроника",
+        "Освещение",
+        "Строительство"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 7,
+      "Categories": [
+        "Электроника",
+        "Освещение",
+        "Строительство"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 8,
+      "Categories": [
+        "Гранаты",
+        "Патроны",
+        "Магазины",
+        "Улучшения",
+        "Прицелы",
+        "Глушители",
+        "Патроны коробки"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 8,
+      "Categories": [
+        "Гранаты",
+        "Патроны",
+        "Магазины",
+        "Улучшения",
+        "Прицелы",
+        "Глушители",
+        "Патроны коробки"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 9,
+      "Categories": [
+        "ТОП Оружие"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 10,
+      "Categories": [
+        "Семена",
+        "Овощи",
+        "Drugs"
+      ],
+      "LicencesRequired": [
+        "Farm Licence"
+      ],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 12,
+      "Categories": [
+        "Машины"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 13,
+      "Categories": [
+        "Приборы ночного видения",
+        "Военные маски/Балаклава",
+        "Военные куртки",
+        "Разгрузки",
+        "Карманы на разгрузку",
+        "Кобура",
+        "Ножны",
+        "Бронежилеты",
+        "Тяжелая броня",
+        "Тактические перчатки",
+        "Военные штаны",
+        "Военная обувь",
+        "Тактические рюкзаки",
+        "Маскировка",
+        "Нашивки"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    }
+  ]
 }

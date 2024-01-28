@@ -112,7 +112,7 @@
     </type>
 	
 	<type name="Debug_Only_For_Testing_Or_Debugging">
-        <Debug_Mod 	Activated = "2"/>	<!-- [0 1 or 2] keep to 0 to save server resources : refresh xml modifications each 1 second if debug mod > 0 and each 30 seconds if debug mod = 0 (when change from 0 to 1 the curent 30s timer have to finished before begin to refresh at 1s rate) / if set to 2 damage messages will be shown when hitting zombies -->
+        <Debug_Mod 	Activated = "0"/>	<!-- [0 1 or 2] keep to 0 to save server resources : refresh xml modifications each 1 second if debug mod > 0 and each 30 seconds if debug mod = 0 (when change from 0 to 1 the curent 30s timer have to finished before begin to refresh at 1s rate) / if set to 2 damage messages will be shown when hitting zombies -->
 	</type>		
 	
 	

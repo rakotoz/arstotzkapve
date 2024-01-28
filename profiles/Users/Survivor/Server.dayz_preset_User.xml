@@ -1009,9 +1009,6 @@
     <input name="UACPBFoldUnfoldBipod">
         <btn name="kJ" />
     </input>
-    <input name="UACarLockToggle">
-        <btn name="kU" />
-    </input>
     <input name="UATurnOnMagnitofon">
         <btn name="kUp" />
     </input>
@@ -1021,14 +1018,8 @@
     <input name="UAPlayPrevTrack">
         <btn name="kLeft" />
     </input>
-    <input name="UASchanaChatChannel">
-        <btn name="kZ" />
-    </input>
-    <input name="UASchanaChatSizeDown">
-        <btn name="kLBracket" />
-    </input>
-    <input name="UASchanaChatSizeUp">
-        <btn name="kRBracket" />
+    <input name="UAOpenSSSWheelHud">
+        <btn name="kInsert" />
     </input>
     <input name="UAExpansionPartyHUDToggle">
         <btn name="kMultiply" />

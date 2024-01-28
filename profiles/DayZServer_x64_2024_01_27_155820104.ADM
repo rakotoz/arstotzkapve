@@ -1,0 +1,88 @@
+
+
+******************************************************************************
+AdminLog started on 2024-01-26 at 00:03:31
+00:06:25 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+00:07:23 | [COT] 76561198021410320: Deleted Entity Chevrolet_Camaro_kamo:21497 at <3722.565674, 402.867645, 5990.019531>
+00:07:59 | [COT] 76561198021410320: Deleted Entity HAMMER_H1:8431 at <3724.007568, 402.669739, 5989.896484>
+00:08:25 | [COT] 76561198021410320: Set GodMode To true [guid=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=]
+00:08:39 | [COT] 76561198021410320: Teleported HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw= to (Kumyrna, <8300.029297, 298.389771, 6054.240723>)
+00:08:54 | [COT] 76561198021410320: Set the date to 2020/10/15 12:0
+00:08:55 | [COT] 76561198021410320: Entered the Free Camera
+00:09:06 | [COT] 76561198021410320: Left the Free Camera
+00:09:31 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:14696 at <8353.610352, 292.006012, 5982.200195>
+00:09:34 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:14678 at <8353.610352, 292.006012, 5982.200195>
+00:09:38 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:15156 at <8353.610352, 292.006012, 5982.200195>
+00:09:42 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:14968 at <8353.610352, 292.006012, 5982.200195>
+00:09:49 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:14875 at <8353.610352, 292.006012, 5982.200195>
+00:09:51 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:15066 at <8353.610352, 292.006012, 5982.200195>
+00:09:53 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:15105 at <8353.610352, 292.006012, 5982.200195>
+00:09:55 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:14873 at <8353.610352, 292.006012, 5982.200195>
+00:09:57 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:15371 at <8353.610352, 292.006012, 5982.200195>
+00:09:58 | [COT] 76561198021410320: Deleted Entity BarrelHoles_Red:4376 at <8353.610352, 292.006012, 5982.200195>
+00:10:44 | [COT] 76561198021410320: Deleted Entity Interceptor:16546 at <8363.913086, 292.978790, 5980.677734>
+00:11:09 | [COT] 76561198021410320: Spawned Entity Банкнота 100 рублей (ItemBase<b2132130>, 500, 100, 0) at <8364.421875, 291.998657, 5978.528320>
+00:11:09 | [COT] 76561198021410320: Spawned Entity Банкнота 100 рублей (ItemBase<b2130c10>, 500, 100, 0) at <8364.420898, 292.008301, 5978.534668>
+00:11:10 | [COT] 76561198021410320: Spawned Entity Банкнота 100 рублей (ItemBase<b21316a0>, 500, 100, 0) at <8364.420898, 292.017944, 5978.541992>
+00:11:10 | [COT] 76561198021410320: Spawned Entity Банкнота 100 рублей (ItemBase<b212f6f0>, 500, 100, 0) at <8364.419922, 292.027588, 5978.549805>
+00:11:10 | [COT] 76561198021410320: Spawned Entity Банкнота 100 рублей (ItemBase<b212d740>, 500, 100, 0) at <8364.419922, 292.037231, 5978.556152>
+00:11:10 | [COT] 76561198021410320: Spawned Entity Банкнота 100 рублей (ItemBase<b212ec60>, 500, 100, 0) at <8364.418945, 292.046875, 5978.562500>
+00:11:10 | [COT] 76561198021410320: Spawned Entity Банкнота 100 рублей (ItemBase<b2130180>, 500, 100, 0) at <8364.417969, 292.056519, 5978.566895>
+00:11:10 | [COT] 76561198021410320: Spawned Entity Банкнота 100 рублей (ItemBase<b212ad00>, 500, 100, 0) at <8364.416992, 292.066162, 5978.570801>
+00:11:27 | [COT] 76561198021410320: Deleted Entity OffroadHatchback:15496 at <8365.245117, 292.045166, 5987.724121>
+00:11:46 | [COT] 76561198021410320: Deleted Entity VAZ_2108:19810 at <8365.666016, 292.809601, 5978.463379>
+00:23:44 | [COT] 76561198021410320: Deleted Entity Truck_01_Covered_Orange:6595 at <8365.109375, 291.998810, 5987.743164>
+00:24:17 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-26 at 20:01:38
+20:03:04 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+20:03:32 | [COT] 76561198021410320: Set the date to 2020/10/18 6:0
+20:03:34 | [COT] 76561198021410320: Set the date to 2020/10/18 12:0
+20:03:53 | [COT] 76561198021410320: Deleted Entity Chevrolet_Camaro:20450 at <8365.602539, 292.823547, 5979.070313>
+20:03:57 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-26 at 20:05:47
+20:06:45 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+20:08:35 | [COT] 76561198021410320: Spawned Entity Кассета Need For Speed (CassetteBase<a71b8ba0>, 100, 100, 0) at <8364.377930, 291.991241, 5984.056641>
+20:09:46 | [COT] 76561198021410320: Deleted Entity Chevrolet_Camaro:6737 at <8362.302734, 292.172272, 5988.896973>
+20:11:31 | [COT] 76561198021410320: Deleted Entity Chevrolet_Camaro_black:11896 at <8350.120117, 292.073029, 5990.958984>
+20:11:58 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-26 at 20:19:21
+20:20:48 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+20:21:25 | [COT] 76561198021410320: Deleted Entity Conqueror_yellow:24101 at <8365.179688, 291.735657, 5987.656250>
+20:22:23 | [COT] 76561198021410320: Deleted Entity Conqueror:21951 at <8355.637695, 292.016235, 5984.645996>
+20:22:47 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-26 at 23:18:38
+23:21:01 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+23:21:39 | [COT] 76561198021410320: Spawned Entity  (House<27f22020>, 100, -1, 0) at <8357.598633, 291.990021, 5987.628906>
+23:21:55 | [COT] 76561198021410320: Deleted Entity Arz_Sound:18653 at <8357.598633, 291.990021, 5987.628906>
+23:21:57 | [COT] 76561198021410320: Entered the Free Camera
+23:22:06 | [COT] 76561198021410320: Left the Free Camera
+23:22:22 | [COT] 76561198021410320: Spawned Entity  (SpookyArea<26f74610>, 100, -1, 0) at <7596.853027, 226.995712, 5841.709961>
+23:22:27 | [COT] 76561198021410320: Spawned Entity  (House<3128d5b0>, 100, -1, 0) at <7596.848633, 226.995621, 5841.703613>
+23:40:56 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2024-01-26 at 23:46:43
+23:48:09 | Player "Negat1ve" is connected (id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=)
+23:48:46 | [COT] 76561198021410320: Spawned Entity  (Arz_Sound<a451c0e0>, 100, -1, 0) at <7595.388672, 227.140976, 5843.831543>
+23:49:16 | [COT] 76561198021410320: Deleted Entity Arz_Sound:21468 at <7595.388672, 227.140976, 5843.831543>
+23:49:22 | [COT] 76561198021410320: Entered the Free Camera
+23:49:44 | [COT] 76561198021410320: Left the Free Camera
+23:49:57 | [COT] 76561198021410320: Spawned Entity  (Arz_Sound<add71960>, 100, -1, 0) at <3687.838623, 410.952911, 5987.285156>
+23:50:01 | [COT] 76561198021410320: Set GodMode To true [guid=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=]
+23:51:52 | Player "Negat1ve"(id=HaJrHsb6L0RRmstMhOq-chLeygMMLXgQxUZSF5j-Blw=) has been disconnected
+
+
+**********************************EOF****************************************

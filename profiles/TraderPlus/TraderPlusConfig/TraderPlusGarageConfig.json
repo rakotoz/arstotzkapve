@@ -1,114 +1,107 @@
 {
-    "Version": "2.5",
-    "UseGarageOnlyToTrade": 0,
-    "VehicleMustHaveLock": 0,
-    "SaveVehicleLock": 1,
-    "SaveVehicleCargo": 1,
-    "SaveVehicleHealth": 1,
-    "SaveVehicleFuel": 1,
-    "SavedVehicleInGarageForTradeInHour": 24,
-    "MaxVehicleStored": 3,
-    "ParkInCost": 0,
-    "ParkOutCost": 0,
-    "PayWithBankAccount": 0,
-    "WhitelistedObjects": [
-        "SK_LandingPad",
-		"StaticObj_Panel_Concrete_1",
-		"Land_Airfield_Small_Hangar",
-		"StaticObj_Wall_CncSmall_4",
-      	"bldr_panel_concrete_2",
-      	"StaticObj_Panel_Concrete_2",
-      	"bldr_panel_concrete_1"
-    ],
-    "NPCs": [
-        {
-            "ClassName": "BVM_VendingMachine_garage",
-            "Position": [
-                11633.36328125,
-                57.807411193847659,
-                14650.166015625
-            ],
-            "Orientation": [
-                250.0,
-                -0.0,
-                -0.0
-            ],
-            "ParkingPosition": [
-              	11627.9,
-                57.8215,
-                14649.4
-            ],
-            "ParkingOrientation": [
-                250.0,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-                
-            ]
-        },
-		{
-            "ClassName": "BVM_VendingMachine_garage",
-            "Position": [
-                9573.34,
-                239.716,
-                11360.2
-            ],
-            "Orientation": [
-                -141.485,
-                -0.0,
-                -0.0
-            ],
-            "ParkingPosition": [
-              	9566.66,
-				240,
-				11355.5
-            ],
-            "ParkingOrientation": [
-                -140.035,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-               
-            ]
-        },
-		{
-            "ClassName": "BVM_VendingMachine_garage",
-            "Position": [
-                12532.3,
-				156.5,
-				6733.16
-            ],
-            "Orientation": [
-                47.3595,
-				0,
-				0
-            ],
-            "ParkingPosition": [
-              	12539.4,
-				156.6,
-				6736.71
-            ],
-            "ParkingOrientation": [
-                -128.918,
-				0,
-				0
-            ],
-            "Clothes": [
-               
-            ]
-        }		
-    ],
-    "ParkingNotAvailable": "Парковка уже занята!",
-    "NotEnoughMoney": "У вас недостаточно денег",
-    "NotRightToPark": "Вы не имеете права парковать этот автомобиль!",
-    "CarHasMember": "Внутри машины все еще находятся игроки!",
-    "ParkInFail": "Транспортное средство не удалось правильно хранить",
-    "ParkInSuccess": "Транспортное средство успешно поставлено на хранение",
-    "ParkOutFail": "Транспортное средство не удалось забрать!",
-    "ParkOutSuccess": "Автомобиль успешно возвращен!",
-    "MaxVehicleStoredReached": "Достигнуто максимальное количество автомобилей!",
-    "TradeVehicleWarning": "Транспортное средство хранилось в течение %1 часа, после этого момента оно будет потеряно, поэтому продайте его или получите быстро.",
-    "TradeVehicleHasBeenDeleted": "Транспортное средство, сохраненное для торговли, достигло неактивности и было удалено!"
+  "Version": "2.5",
+  "UseGarageOnlyToTrade": 0,
+  "VehicleMustHaveLock": 0,
+  "SaveVehicleCargo": 1,
+  "SaveVehicleHealth": 1,
+  "SaveVehicleFuel": 1,
+  "SavedVehicleInGarageForTradeInHour": 24,
+  "MaxVehicleStored": 3,
+  "ParkInCost": 0,
+  "ParkOutCost": 0,
+  "PayWithBankAccount": 0,
+  "WhitelistedObjects": [
+    "SK_LandingPad",
+    "StaticObj_Panel_Concrete_1",
+    "Land_Airfield_Small_Hangar",
+    "StaticObj_Wall_CncSmall_4",
+    "bldr_panel_concrete_2",
+    "StaticObj_Panel_Concrete_2",
+    "bldr_panel_concrete_1"
+  ],
+  "NPCs": [
+    {
+      "ClassName": "BVM_VendingMachine_garage",
+      "Position": [
+        9573.33984,
+        239.716003,
+        11360.2002
+      ],
+      "Orientation": [
+        -141.485001,
+        0,
+        0
+      ],
+      "ParkingPosition": [
+        9566.66016,
+        240,
+        11355.5
+      ],
+      "ParkingOrientation": [
+        -140.035004,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "ClassName": "BVM_VendingMachine_garage",
+      "Position": [
+        3688.62012,
+        402.011993,
+        5990.2002
+      ],
+      "Orientation": [
+        67.9420013,
+        0,
+        0
+      ],
+      "ParkingPosition": [
+        3694.72998,
+        402.011993,
+        5994.9502
+      ],
+      "ParkingOrientation": [
+        55.9743996,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "ClassName": "BVM_VendingMachine_garage",
+      "Position": [
+        12532.2998,
+        156.5,
+        6733.16016
+      ],
+      "Orientation": [
+        47.3595009,
+        0,
+        0
+      ],
+      "ParkingPosition": [
+        12539.4004,
+        156.600006,
+        6736.70996
+      ],
+      "ParkingOrientation": [
+        -128.917999,
+        0,
+        0
+      ],
+      "Clothes": []
+    }
+  ],
+  "ParkingNotAvailable": "Парковка уже занята!",
+  "NotEnoughMoney": "У вас недостаточно денег",
+  "NotRightToPark": "Вы не имеете права парковать этот автомобиль!",
+  "CarHasMember": "Внутри машины все еще находятся игроки!",
+  "ParkInFail": "Транспортное средство не удалось правильно хранить",
+  "ParkInSuccess": "Транспортное средство успешно поставлено на хранение",
+  "ParkOutFail": "Транспортное средство не удалось забрать!",
+  "ParkOutSuccess": "Автомобиль успешно возвращен!",
+  "MaxVehicleStoredReached": "Достигнуто максимальное количество автомобилей!",
+  "TradeVehicleWarning": "Транспортное средство хранилось в течение %1 часа, после этого момента оно будет потеряно, поэтому продайте его или получите быстро.",
+  "TradeVehicleHasBeenDeleted": "Транспортное средство, сохраненное для торговли, достигло неактивности и было удалено!"
 }
