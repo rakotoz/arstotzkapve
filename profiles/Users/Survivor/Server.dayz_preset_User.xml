@@ -887,9 +887,6 @@
         <btn name="mWheelDown" />
         <btn name="kApostrophe" />
     </input>
-    <input name="CARCODELOCKTOGGLE">
-        <btn name="kU" />
-    </input>
     <input name="UACOTModuleToggleCOT">
         <btn name="kEnd" />
     </input>
@@ -991,35 +988,11 @@
             <btn name="kN" />
         </btn>
     </input>
-    <input name="UABetterInspect">
+    <input name="UAAdvancedBanking">
         <btn name="kB" />
-    </input>
-    <input name="UALBAdminMenuToggle">
-        <btn name="kU" />
-    </input>
-    <input name="UALBAdminMenuOpen">
-        <btn name="kI" />
-    </input>
-    <input name="PvZmoD_CZ_RefreshJsonVariables">
-        <btn name="kNumpad4" />
-    </input>
-    <input name="PvZ_InfomationPanel_ShowHidePvzInformationPanel_CZ">
-        <btn name="kSpace" />
     </input>
     <input name="UACPBFoldUnfoldBipod">
         <btn name="kJ" />
-    </input>
-    <input name="UATurnOnMagnitofon">
-        <btn name="kUp" />
-    </input>
-    <input name="UAPlayNextTrack">
-        <btn name="kRight" />
-    </input>
-    <input name="UAPlayPrevTrack">
-        <btn name="kLeft" />
-    </input>
-    <input name="UAOpenSSSWheelHud">
-        <btn name="kInsert" />
     </input>
     <input name="UAExpansionPartyHUDToggle">
         <btn name="kMultiply" />
