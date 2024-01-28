@@ -2,15 +2,15 @@
     "ConfigVersion": 26,
     "ID": 1,
     "ObjectiveType": 4,
-    "ObjectiveText": "Collect 5 apples",
+    "ObjectiveText": "Собрать 5 коровьих шкур",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
             "Amount": 5,
-            "ClassName": "Apple",
-            "QuantityPercent": -1,
-            "MinQuantityPercent": -1
+            "ClassName": "CowPelt",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
         }
     ],
     "ShowDistance": 1,

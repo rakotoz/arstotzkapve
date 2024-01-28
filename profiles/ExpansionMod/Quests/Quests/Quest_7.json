@@ -1,12 +1,12 @@
 {
     "ConfigVersion": 21,
-    "ID": 4,
+    "ID": 7,
     "Type": 1,
-    "Title": "Пролог. Разведка 2",
+    "Title": "Пролог. Охота 3",
     "Descriptions": [
-        "Нашел что-то интерессное? Ну, тогда двигай к охотнику, помоги ему немного"
+        "Принес шкуры? Тогда давай попробуй что-нибудь более серьезное"
     ],
-    "ObjectiveText": "Добраться до охотника",
+    "ObjectiveText": "Принести 5 медвежьих и 5 волчьих шкур",
     "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -18,8 +18,8 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TraderPlus_Money_Ruble20",
-            "Amount": 5,
+            "ClassName": "TraderPlus_Money_Ruble100",
+            "Amount": 10,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -32,7 +32,7 @@
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "QuestGiverIDs": [
-        1
+        7
     ],
     "QuestTurnInIDs": [
         7
@@ -41,17 +41,20 @@
     "Objectives": [
         {
             "ConfigVersion": 26,
-            "ID": 7,
-            "ObjectiveType": 3
+            "ID": 2,
+            "ObjectiveType": 4
+        },
+        {
+            "ConfigVersion": 26,
+            "ID": 3,
+            "ObjectiveType": 4
         }
     ],
-    "QuestColor": 0,
-    "PreQuestIDs": [
-        3
-    ],
+    "QuestColor": -930200403,
+    "PreQuestIDs": [6],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 0,
+    "PlayerNeedQuestItems": 1,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "SuppressQuestLogOnCompetion": 0,

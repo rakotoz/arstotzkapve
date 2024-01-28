@@ -2,11 +2,11 @@
     "ConfigVersion": 26,
     "ID": 1,
     "ObjectiveType": 11,
-    "ObjectiveText": "Craft a improvised fishing rod:",
+    "ObjectiveText": "Изготовить каменный нож",
     "TimeLimit": -1,
     "Active": 1,
     "ItemNames": [
-        "ImprovisedFishingRod"
+        "StoneKnife"
     ],
     "ExecutionAmount": 1
 }

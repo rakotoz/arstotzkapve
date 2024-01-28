@@ -12,25 +12,43 @@
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
-    "Autocomplete": 1,
+    "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TraderPlus_Money_Ruble50",
+            "ClassName": "TraderPlus_Money_Ruble20",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 0.0
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MKII",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "Mag_MKII_10Rnd",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
         }
     ],
     "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 0,
+    "RewardsForGroupOwnerOnly": 1,
     "QuestGiverIDs": [],
     "QuestTurnInIDs": [
         1
@@ -43,12 +61,12 @@
             "ObjectiveType": 3
         }
     ],
-    "QuestColor": -16711923,
+    "QuestColor": 0,
     "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 0,
-    "DeleteQuestItems": 0,
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "SuppressQuestLogOnCompetion": 0,
     "Active": 1

@@ -1,14 +1,14 @@
 {
     "ConfigVersion": 26,
-    "ID": 2,
+    "ID": 5,
     "ObjectiveType": 4,
-    "ObjectiveText": "Собрать 5 волчьих шкур",
+    "ObjectiveText": "Найти лопату",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-            "Amount": 5,
-            "ClassName": "WolfPelt",
+            "Amount": 2,
+            "ClassName": "Shovel",
             "QuantityPercent": 100,
             "MinQuantityPercent": 90
         }

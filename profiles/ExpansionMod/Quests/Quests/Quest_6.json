@@ -1,12 +1,12 @@
 {
     "ConfigVersion": 21,
-    "ID": 4,
+    "ID": 6,
     "Type": 1,
-    "Title": "Пролог. Разведка 2",
+    "Title": "Пролог. Охота 2",
     "Descriptions": [
-        "Нашел что-то интерессное? Ну, тогда двигай к охотнику, помоги ему немного"
+        "Сделал нож? Отлично, самое время начать охотиться. Принеси мне 5 коровьих шкур"
     ],
-    "ObjectiveText": "Добраться до охотника",
+    "ObjectiveText": "Принести 5 коровьих шкур",
     "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -18,7 +18,7 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TraderPlus_Money_Ruble20",
+            "ClassName": "TraderPlus_Money_Ruble100",
             "Amount": 5,
             "Attachments": [],
             "DamagePercent": 0,
@@ -32,7 +32,7 @@
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "QuestGiverIDs": [
-        1
+        7
     ],
     "QuestTurnInIDs": [
         7
@@ -41,17 +41,15 @@
     "Objectives": [
         {
             "ConfigVersion": 26,
-            "ID": 7,
-            "ObjectiveType": 3
+            "ID": 1,
+            "ObjectiveType": 4
         }
     ],
-    "QuestColor": 0,
-    "PreQuestIDs": [
-        3
-    ],
+    "QuestColor": -930200403,
+    "PreQuestIDs": [5],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 0,
+    "PlayerNeedQuestItems": 1,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "SuppressQuestLogOnCompetion": 0,

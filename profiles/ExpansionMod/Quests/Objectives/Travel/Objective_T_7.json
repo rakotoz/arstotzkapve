@@ -1,17 +1,17 @@
 {
     "ConfigVersion": 26,
-    "ID": 4,
+    "ID": 7,
     "ObjectiveType": 3,
-    "ObjectiveText": "Все для стройки",
+    "ObjectiveText": "Охотник",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        3721.010009765625,
-        402.12799072265627,
-        5960.18994140625
+        2529.330078125,
+        360.6130065917969,
+        7556.18017578125
     ],
     "MaxDistance": 2.0,
-    "MarkerName": "Все для стройки",
+    "MarkerName": "Охотник",
     "ShowDistance": 1,
     "TriggerOnEnter": 1,
     "TriggerOnExit": 0

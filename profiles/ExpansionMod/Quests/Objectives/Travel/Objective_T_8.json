@@ -1,17 +1,17 @@
 {
     "ConfigVersion": 26,
-    "ID": 4,
+    "ID": 8,
     "ObjectiveType": 3,
-    "ObjectiveText": "Все для стройки",
+    "ObjectiveText": "Фермер",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        3721.010009765625,
-        402.12799072265627,
-        5960.18994140625
+        6655.48,
+        354.051,
+        8445.07
     ],
     "MaxDistance": 2.0,
-    "MarkerName": "Все для стройки",
+    "MarkerName": "Фермер",
     "ShowDistance": 1,
     "TriggerOnEnter": 1,
     "TriggerOnExit": 0

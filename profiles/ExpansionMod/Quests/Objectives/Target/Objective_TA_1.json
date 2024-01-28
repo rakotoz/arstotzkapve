@@ -2,7 +2,7 @@
     "ConfigVersion": 26,
     "ID": 1,
     "ObjectiveType": 2,
-    "ObjectiveText": "Убить 5 зараженных",
+    "ObjectiveText": "Kill 10 Infected with a sledgehammer",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
@@ -12,7 +12,7 @@
     ],
     "MaxDistance": 150.0,
     "MinDistance": -1.0,
-    "Amount": 5,
+    "Amount": 10,
     "ClassNames": [
         "ZmbM_CitizenASkinny_Base",
         "ZmbM_CitizenASkinny_LT_Base",
@@ -81,7 +81,9 @@
         "ZmbF_VillagerOld_LT_Base"
     ],
     "CountSelfKill": 0,
-    "AllowedWeapons": [],
+    "AllowedWeapons": [
+        "SledgeHammer"
+    ],
     "ExcludedClassNames": [],
     "CountAIPlayers": 0,
     "AllowedTargetFactions": [],

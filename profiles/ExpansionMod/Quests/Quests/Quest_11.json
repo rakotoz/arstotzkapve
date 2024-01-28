@@ -1,12 +1,12 @@
 {
     "ConfigVersion": 21,
-    "ID": 4,
+    "ID": 11,
     "Type": 1,
-    "Title": "Пролог. Разведка 2",
+    "Title": "Пролог. Фермерство 4",
     "Descriptions": [
-        "Нашел что-то интерессное? Ну, тогда двигай к охотнику, помоги ему немного"
+        "Вот и настало время посадить семена и собрать урожай. Только пожалуйста не делай это прямо тут"
     ],
-    "ObjectiveText": "Добраться до охотника",
+    "ObjectiveText": "Собрать томаты",
     "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -18,7 +18,7 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TraderPlus_Money_Ruble20",
+            "ClassName": "TraderPlus_Money_Ruble100",
             "Amount": 5,
             "Attachments": [],
             "DamagePercent": 0,
@@ -32,26 +32,24 @@
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "QuestGiverIDs": [
-        1
+        6
     ],
     "QuestTurnInIDs": [
-        7
+        6
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 26,
-            "ID": 7,
-            "ObjectiveType": 3
+            "ID": 6,
+            "ObjectiveType": 4
         }
     ],
-    "QuestColor": 0,
-    "PreQuestIDs": [
-        3
-    ],
+    "QuestColor": -930200403,
+    "PreQuestIDs": [10],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 0,
+    "PlayerNeedQuestItems": 1,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "SuppressQuestLogOnCompetion": 0,

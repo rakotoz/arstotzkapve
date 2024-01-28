@@ -1,12 +1,12 @@
 {
     "ConfigVersion": 21,
-    "ID": 4,
+    "ID": 3,
     "Type": 1,
-    "Title": "Пролог. Разведка 2",
+    "Title": "Пролог. Разведка 1",
     "Descriptions": [
-        "Нашел что-то интерессное? Ну, тогда двигай к охотнику, помоги ему немного"
+        "Смотрю тебе полегчало? Тогда давай познакомимся с местностью. Посмотри что тут у нас и где продается"
     ],
-    "ObjectiveText": "Добраться до охотника",
+    "ObjectiveText": "Осмотреть торговые точки",
     "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -35,23 +35,43 @@
         1
     ],
     "QuestTurnInIDs": [
-        7
+        1
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 26,
-            "ID": 7,
+            "ID": 2,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 26,
+            "ID": 3,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 26,
+            "ID": 4,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 26,
+            "ID": 5,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 26,
+            "ID": 6,
             "ObjectiveType": 3
         }
     ],
     "QuestColor": 0,
     "PreQuestIDs": [
-        3
+        2
     ],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 0,
+    "PlayerNeedQuestItems": 1,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "SuppressQuestLogOnCompetion": 0,

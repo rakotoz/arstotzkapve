@@ -1,12 +1,12 @@
 {
     "ConfigVersion": 21,
-    "ID": 4,
+    "ID": 8,
     "Type": 1,
-    "Title": "Пролог. Разведка 2",
+    "Title": "Пролог. Фермерство 1",
     "Descriptions": [
-        "Нашел что-то интерессное? Ну, тогда двигай к охотнику, помоги ему немного"
+        "Так, ну базовые навыки охоты теперь у тебя есть, пора бы научиться и фермерству."
     ],
-    "ObjectiveText": "Добраться до охотника",
+    "ObjectiveText": "Добраться до фермера",
     "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -18,8 +18,8 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TraderPlus_Money_Ruble20",
-            "Amount": 5,
+            "ClassName": "TraderPlus_Money_Ruble100",
+            "Amount": 2,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -32,26 +32,24 @@
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "QuestGiverIDs": [
-        1
+        7
     ],
     "QuestTurnInIDs": [
-        7
+        6
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 26,
-            "ID": 7,
+            "ID": 8,
             "ObjectiveType": 3
         }
     ],
-    "QuestColor": 0,
-    "PreQuestIDs": [
-        3
-    ],
+    "QuestColor": -930200403,
+    "PreQuestIDs": [7],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 0,
+    "PlayerNeedQuestItems": 1,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "SuppressQuestLogOnCompetion": 0,

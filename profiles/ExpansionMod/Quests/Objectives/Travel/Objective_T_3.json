@@ -2,16 +2,16 @@
     "ConfigVersion": 26,
     "ID": 3,
     "ObjectiveType": 3,
-    "ObjectiveText": "Добраться до лагеря",
+    "ObjectiveText": "Одежда",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        3706.27001953125,
-        402.0119934082031,
-        5987.080078125
+        3726.3701171875,
+        402.0950012207031,
+        5970.0498046875
     ],
-    "MaxDistance": 20.0,
-    "MarkerName": "Лагерь Зеленая Гора",
+    "MaxDistance": 2.0,
+    "MarkerName": "Одежда",
     "ShowDistance": 1,
     "TriggerOnEnter": 1,
     "TriggerOnExit": 0

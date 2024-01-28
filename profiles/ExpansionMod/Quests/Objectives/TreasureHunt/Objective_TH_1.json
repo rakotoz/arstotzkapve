@@ -2,14 +2,14 @@
     "ConfigVersion": 26,
     "ID": 1,
     "ObjectiveType": 6,
-    "ObjectiveText": "Поиск схрона",
+    "ObjectiveText": "Find the location of the treasure",
     "TimeLimit": -1,
     "Active": 1,
     "ShowDistance": 1,
     "ContainerName": "ExpansionQuestSeaChest",
     "DigInStash": 1,
     "MarkerName": "???",
-    "MarkerVisibility": 6,
+    "MarkerVisibility": 4,
     "Positions": [
         [
             2936.47998046875,
@@ -29,7 +29,7 @@
     ],
     "Loot": [
         {
-            "Name": "Chips",
+            "Name": "Binoculars",
             "Attachments": [],
             "Chance": 0.30000001192092898,
             "QuantityPercent": -1,
@@ -49,11 +49,11 @@
             "Variants": []
         },
         {
-            "Name": "Deagle",
+            "Name": "GhillieAtt_Mossy",
             "Attachments": [],
             "Chance": 0.05000000074505806,
             "QuantityPercent": -1,
-            "Max": 1,
+            "Max": -1,
             "Min": 0,
             "Variants": []
         },
@@ -67,33 +67,15 @@
             "Variants": []
         },
         {
-            "Name": "CPB_AKJ_762",
+            "Name": "ChernarusMap",
             "Attachments": [],
-            "Chance": 0.699999988079071,
+            "Chance": 0.30000001192092898,
             "QuantityPercent": -1,
-            "Max": 1,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "AK_Suppressor",
-            "Attachments": [],
-            "Chance": 0.10000000894069672,
-            "QuantityPercent": -1,
-            "Max": 1,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "AmmoBox_762x54_20Rnd",
-            "Attachments": [],
-            "Chance": 0.4000000059604645,
-            "QuantityPercent": -1,
-            "Max": 3,
+            "Max": -1,
             "Min": 0,
             "Variants": []
         }
     ],
-    "LootItemsAmount": 4,
+    "LootItemsAmount": 0,
     "MaxDistance": 10.0
 }
