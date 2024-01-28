@@ -45,3 +45,6 @@ profiles/PermissionsFramework/Players/*
 profiles/PermissionsFramework/Players/*
 mpmissions/dayzOffline.chernarusplus/storage_1/*
 *.ebo
+/profiles/*.mdmp
+/profiles/cache.ch
+*.ADM

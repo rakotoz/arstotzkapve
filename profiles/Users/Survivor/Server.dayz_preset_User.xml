@@ -1018,9 +1018,6 @@
     <input name="UAPlayPrevTrack">
         <btn name="kLeft" />
     </input>
-    <input name="UAOpenSSSWheelHud">
-        <btn name="kInsert" />
-    </input>
     <input name="UAExpansionPartyHUDToggle">
         <btn name="kMultiply" />
     </input>
