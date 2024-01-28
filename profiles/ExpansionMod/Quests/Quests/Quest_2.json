@@ -1,0 +1,84 @@
+{
+    "ConfigVersion": 21,
+    "ID": 2,
+    "Type": 1,
+    "Title": "Проверка",
+    "Descriptions": [
+        "Вот твое первое задание, товарищ. Как докладывает разведка, неподалеку в деревне развелось множество зараженных. Твоя задача - зачистить деревню.",
+        "Ты еще здесь?! Повторяю приказ - зачисти деревню неподалеку",
+        "Живой? Ну и отлично. Вот твоя награда..."
+    ],
+    "ObjectiveText": "Убить 5 зараженных в деревне",
+    "FollowUpQuest": 1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TraderPlus_Money_Ruble500",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 0.0
+        },
+        {
+            "ClassName": "WaterBottle",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TunaCan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 2,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 26,
+            "ID": 1,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": -2816,
+    "PreQuestIDs": [
+        1
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

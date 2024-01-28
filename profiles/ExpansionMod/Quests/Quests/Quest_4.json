@@ -1,0 +1,54 @@
+{
+    "ConfigVersion": 21,
+    "ID": 4,
+    "Type": 1,
+    "Title": "Поиск схрона",
+    "Descriptions": [
+        "Я ухожу на север. Говорят, что там есть безопасная зона. Я собрал все необходимое. Если кто-то готов откопать мой схрон - я не против. Координаты такие...\r\nЛопата прилагается",
+        "Поиск схрона",
+        "Ты уже взял задание"
+    ],
+    "ObjectiveText": "Поиск схрона",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "Shovel",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        3
+    ],
+    "QuestTurnInIDs": [
+        3
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 1,
+            "ObjectiveType": 6
+        }
+    ],
+    "QuestColor": 0,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 0
+}

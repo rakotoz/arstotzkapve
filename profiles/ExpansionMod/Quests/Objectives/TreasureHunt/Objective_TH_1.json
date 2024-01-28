@@ -1,0 +1,99 @@
+{
+    "ConfigVersion": 26,
+    "ID": 1,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Поиск схрона",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 6,
+    "Positions": [
+        [
+            2936.47998046875,
+            350.40399169921877,
+            6369.39013671875
+        ],
+        [
+            3143.35009765625,
+            365.7760009765625,
+            6942.0400390625
+        ],
+        [
+            5233.509765625,
+            290.8810119628906,
+            6246.3701171875
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "Chips",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Rangefinder",
+            "Attachments": [
+                "Battery9V"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Deagle",
+            "Attachments": [],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Attachments": [],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "CPB_AKJ_762",
+            "Attachments": [],
+            "Chance": 0.699999988079071,
+            "QuantityPercent": -1,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "AK_Suppressor",
+            "Attachments": [],
+            "Chance": 0.10000000894069672,
+            "QuantityPercent": -1,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "AmmoBox_762x54_20Rnd",
+            "Attachments": [],
+            "Chance": 0.4000000059604645,
+            "QuantityPercent": -1,
+            "Max": 3,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 4,
+    "MaxDistance": 10.0
+}

@@ -1,0 +1,17 @@
+{
+    "ConfigVersion": 26,
+    "ID": 1,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Попить воды из колонки",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionDrinkWellContinuous"
+    ],
+    "AllowedClassNames": [
+        "Land_Misc_Well_Pump_Blue",
+        "Land_Misc_Well_Pump_Yellow"
+    ],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

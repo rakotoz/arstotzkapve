@@ -1,0 +1,68 @@
+{
+    "Version": "2.5",
+    "IsHideOutActive": 0,
+    "EnableAfkDisconnect": 0,
+    "KickAfterDelay": 30,
+    "MsgEnterZone": "ВЫ ВОШЛИ В БЕЗОПАСНУЮ ЗОНУ!",
+    "MsgExitZone": "ВЫ ПОКИНУЛИ БЕЗОПАСНУЮ ЗОНУ!",
+    "MsgOnLeavingZone": "ПОКИНИТЕ БЕЗОПАСНУЮ ЗОНУ ЧЕРЕЗ:",
+    "MustRemoveArmband": "Вы должны снять повязку, чтобы появился тайник!",
+    "SafeAreaLocation": [
+        {
+            "SafeZoneStatut": "Trader",
+            "X": 11595.0,
+            "Y": 14688.0,
+            "Radius": 200.0,
+            "Countdown": 5
+        },
+		{
+            "SafeZoneStatut": "Трейдзона Бардак",
+            "X": 9565.39,
+            "Y": 11364.1,
+            "Radius": 100.0,
+            "Countdown": 5
+        },
+		{
+            "SafeZoneStatut": "Трейдзона Зеленая гора",
+            "X": 3702.16,
+            "Y": 5990.19,
+            "Radius": 100.0,
+            "Countdown": 5
+        },
+		{
+            "SafeZoneStatut": "Трейдзона Охотник",
+            "X": 2532.51,
+            "Y": 7563.4,
+            "Radius": 75.0,
+            "Countdown": 5
+        },		
+		{
+            "SafeZoneStatut": "Трейдзона Фермер",
+            "X": 6654.88,
+            "Y": 8444.73,
+            "Radius": 75.0,
+            "Countdown": 5
+        },
+		{
+            "SafeZoneStatut": "Трейдзона Черный торговец",
+            "X": 12537.2,
+            "Y": 6717.29,
+            "Radius": 100.0,
+            "Countdown": 5
+        }
+    ],
+    "CleanUpTimer": 1200,
+    "WhitelistEntities": [],
+    "ObjectsToDelete": [
+        "Paper"
+    ],
+    "SZSteamUIDs": [
+        "76561198047475651",
+        "76561198047123456"
+    ],
+    "BlackListedItemInStash": [
+        "Apple",
+        "Plum",
+        "Plier"
+    ]
+}

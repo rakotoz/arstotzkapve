@@ -1,0 +1,17 @@
+@*
+logs/
+*.log
+*.RPT
+*.pbo
+*.bikey
+*.bisign
+profiles/TraderPlus/TraderPlusDatabase/*
+profiles/ExpansionMod/Quests/PlayerData/*
+profiles/ExpansionMod/Quests/GroupData/*
+profiles/ExpansionMod/Groups/*
+profiles/TraderPlus/TraderPlusGarageDatabase/*
+profiles/PermissionsFramework/Players/*
+.idea
+profiles/PermissionsFramework/Players/*
+mpmissions/dayzOffline.chernarusplus/storage_1/*
+*.ebo

@@ -1,0 +1,1191 @@
+<VehicleParts> OffroadHatchback		// Vehicle Classname
+	SparkPlug// Classname of Item to attach when Vehicle gets bought
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HatchbackDoors_CoDriver
+	HatchbackDoors_Driver
+	HatchbackHood
+	HatchbackTrunk
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+
+<VehicleParts> OffroadHatchback_Blue
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HatchbackDoors_CoDriver_Blue
+	HatchbackDoors_Driver_Blue
+	HatchbackHood_Blue
+	HatchbackTrunk_Blue
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+
+<VehicleParts> OffroadHatchback_White
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HatchbackDoors_CoDriver_White
+	HatchbackDoors_Driver_White
+	HatchbackHood_White
+	HatchbackTrunk_White
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+
+<VehicleParts> Hatchback_02
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Hatchback_02_Door_1_1
+	Hatchback_02_Door_1_2
+	Hatchback_02_Door_2_1
+	Hatchback_02_Door_2_2
+	Hatchback_02_Hood
+	Hatchback_02_Trunk
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+
+<VehicleParts> Hatchback_02_Black
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Hatchback_02_Door_1_1_Black
+	Hatchback_02_Door_1_2_Black
+	Hatchback_02_Door_2_1_Black
+	Hatchback_02_Door_2_2_Black
+	Hatchback_02_Hood_Black
+	Hatchback_02_Trunk_Black
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+
+<VehicleParts> Hatchback_02_Blue
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Hatchback_02_Door_1_1_Blue
+	Hatchback_02_Door_1_2_Blue
+	Hatchback_02_Door_2_1_Blue
+	Hatchback_02_Door_2_2_Blue
+	Hatchback_02_Hood_Blue
+	Hatchback_02_Trunk_Blue
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+
+<VehicleParts> CivilianSedan
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	CivSedanDoors_Driver
+	CivSedanDoors_CoDriver
+	CivSedanDoors_BackLeft
+	CivSedanDoors_BackRight
+	CivSedanHood
+	CivSedanTrunk
+	CivSedanWheel
+	CivSedanWheel
+	CivSedanWheel
+	CivSedanWheel
+
+<VehicleParts> CivilianSedan_Wine
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	CivSedanDoors_Driver_Wine
+	CivSedanDoors_CoDriver_Wine
+	CivSedanDoors_BackLeft_Wine
+	CivSedanDoors_BackRight_Wine
+	CivSedanHood_Wine
+	CivSedanTrunk_Wine
+	CivSedanWheel
+	CivSedanWheel
+	CivSedanWheel
+	CivSedanWheel
+
+<VehicleParts> CivilianSedan_Black
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	CivSedanDoors_Driver_Black
+	CivSedanDoors_CoDriver_Black
+	CivSedanDoors_BackLeft_Black
+	CivSedanDoors_BackRight_Black
+	CivSedanHood_Black
+	CivSedanTrunk_Black
+	CivSedanWheel
+	CivSedanWheel
+	CivSedanWheel
+	CivSedanWheel
+
+<VehicleParts> Sedan_02
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Sedan_02_Door_1_1
+	Sedan_02_Door_1_2
+	Sedan_02_Door_2_1
+	Sedan_02_Door_2_2
+	Sedan_02_Hood
+	Sedan_02_Trunk
+	Sedan_02_Wheel
+	Sedan_02_Wheel
+	Sedan_02_Wheel
+	Sedan_02_Wheel
+
+<VehicleParts> Sedan_02_Red
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Sedan_02_Door_1_1_Red
+	Sedan_02_Door_1_2_Red
+	Sedan_02_Door_2_1_Red
+	Sedan_02_Door_2_2_Red
+	Sedan_02_Hood_Red
+	Sedan_02_Trunk_Red
+	Sedan_02_Wheel
+	Sedan_02_Wheel
+	Sedan_02_Wheel
+	Sedan_02_Wheel
+
+<VehicleParts> Sedan_02_Grey
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Sedan_02_Door_1_1_Grey
+	Sedan_02_Door_1_2_Grey
+	Sedan_02_Door_2_1_Grey
+	Sedan_02_Door_2_2_Grey
+	Sedan_02_Hood_Grey
+	Sedan_02_Trunk_Grey
+	Sedan_02_Wheel
+	Sedan_02_Wheel
+	Sedan_02_Wheel
+	Sedan_02_Wheel
+
+<VehicleParts>Truck_01_Covered
+    TruckBattery
+	Truck_01_Door_1_1
+	Truck_01_Door_2_1
+	Truck_01_Hood
+	Truck_01_Wheel
+	Truck_01_WheelDouble
+	SparkPlug
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	Truck_01_Wheel
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+
+<VehicleParts>Truck_01_Covered_Blue
+     TruckBattery
+	Truck_01_Wheel
+	Truck_01_WheelDouble
+	Truck_01_Hood_Blue
+	Truck_01_Door_2_1_Blue
+	Truck_01_Door_1_1_Blue
+	SparkPlug
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	Truck_01_Wheel
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+
+<VehicleParts>Truck_01_Covered_Orange
+     TruckBattery
+	Truck_01_Wheel
+	Truck_01_WheelDouble
+	Truck_01_Hood_Orange
+	Truck_01_Door_2_1_Orange
+	Truck_01_Door_1_1_Orange
+	SparkPlug
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	Truck_01_Wheel
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+	
+	
+<VehicleParts>Camper
+    SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Camper_Doors_Driver
+	Camper_Doors_coDriver
+	Camper_Doors_hood
+	Camper_Wheel
+	Camper_Wheel
+	Camper_Wheel
+	Camper_Wheel
+	Camper_Wheel
+
+<VehicleParts>Chevrolet_Camaro
+    SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Chevrolet_Camaro_Doors_Driver
+	Chevrolet_Camaro_Doors_coDriver
+	Chevrolet_Camaro_Doors_hood
+	Chevrolet_Camaro_Doors_trunk
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+
+<VehicleParts>Chevrolet_Camaro_red
+    SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Chevrolet_Camaro_Doors_Driver_red
+	Chevrolet_Camaro_Doors_coDriver_red
+	Chevrolet_Camaro_Doors_hood_red
+	Chevrolet_Camaro_Doors_trunk_red
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+
+<VehicleParts>Chevrolet_Camaro_kamo
+    SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Chevrolet_Camaro_Doors_Driver_kamo
+	Chevrolet_Camaro_Doors_coDriver_kamo
+	Chevrolet_Camaro_Doors_hood_kamo
+	Chevrolet_Camaro_Doors_trunk_kamo
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+
+<VehicleParts>Chevrolet_Camaro_black
+    SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Chevrolet_Camaro_Doors_Driver_black
+	Chevrolet_Camaro_Doors_coDriver_black
+	Chevrolet_Camaro_Doors_hood_black
+	Chevrolet_Camaro_Doors_trunk_black
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+	Chevrolet_Camaro_Wheel
+
+<VehicleParts>Conqueror
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Conqueror_Tent
+	Conqueror_Doors_Driver
+	Conqueror_Doors_coDriver
+	Conqueror_Doors_hood
+	Conqueror_Doors_trunk
+	Conqueror_Wheel
+	Conqueror_Wheel
+	Conqueror_Wheel
+	Conqueror_Wheel
+	Conqueror_Wheel
+
+<VehicleParts>Conqueror_gray
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Conqueror_Tent
+	Conqueror_Doors_Driver_gray
+	Conqueror_Doors_coDriver_gray
+	Conqueror_Doors_hood_gray
+	Conqueror_Doors_trunk_gray
+	Conqueror_Wheel
+	Conqueror_Wheel
+	Conqueror_Wheel
+	Conqueror_Wheel
+	Conqueror_Wheel
+
+<VehicleParts>Conqueror_kamo1
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Conqueror_Tent
+	Conqueror_Doors_Driver_kamo1
+	Conqueror_Doors_coDriver_kamo1
+	Conqueror_Doors_hood_kamo1
+	Conqueror_Doors_trunk_kamo1
+	Conqueror_Wheel
+	Conqueror_Wheel
+	Conqueror_Wheel
+	Conqueror_Wheel
+	Conqueror_Wheel
+
+<VehicleParts>Cougar
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Cougar_Doors_Driver
+	Cougar_Doors_coDriver
+	Cougar_Doors_cargo1
+	Cougar_Doors_cargo2
+	Cougar_Doors_cargo3
+	Cougar_Doors_cargo4
+	Cougar_Doors_hood
+	Cougar_Wheel
+	Cougar_Wheel
+	Cougar_Wheel
+	Cougar_Wheel
+	Cougar_Wheel
+
+<VehicleParts>Cougar_black
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Cougar_Doors_Driver_black
+	Cougar_Doors_coDriver_black
+	Cougar_Doors_cargo1_black
+	Cougar_Doors_cargo2_black
+	Cougar_Doors_cargo3_black
+	Cougar_Doors_cargo4_black
+	Cougar_Doors_hood_black
+	Cougar_Wheel
+	Cougar_Wheel
+	Cougar_Wheel
+	Cougar_Wheel
+	Cougar_Wheel
+
+<VehicleParts>Cougar_kamo
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Cougar_Doors_Driver_kamo
+	Cougar_Doors_coDriver_kamo
+	Cougar_Doors_cargo1_kamo
+	Cougar_Doors_cargo2_kamo
+	Cougar_Doors_cargo3_kamo
+	Cougar_Doors_cargo4_kamo
+	Cougar_Doors_hood_kamo
+	Cougar_Wheel
+	Cougar_Wheel
+	Cougar_Wheel
+	Cougar_Wheel
+	Cougar_Wheel
+
+<VehicleParts>HAMMER_H1
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HAMMER_Doors_Driver
+	HAMMER_Doors_coDriver
+	HAMMER_Doors_cargo1
+	HAMMER_Doors_cargo2
+	HAMMER_Doors_hood 
+	HAMMER_Doors_trunk
+	HAMMER_Doors_cargo3
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+
+<VehicleParts>HAMMER_H1_camo
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HAMMER_Doors_Driver_camo
+	HAMMER_Doors_coDriver_camo
+	HAMMER_Doors_cargo1_camo
+	HAMMER_Doors_cargo2_camo
+	HAMMER_Doors_hood _camo
+	HAMMER_Doors_trunk_camo
+	HAMMER_Doors_cargo3_camo
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+
+<VehicleParts>Interceptor
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Interceptor_Doors_Driver
+	Interceptor_Doors_coDriver
+	Interceptor_Doors_hood
+	Interceptor_Wheel
+	Interceptor_Wheel
+	Interceptor_Wheel
+	Interceptor_Wheel
+	Interceptor_Wheel
+
+<VehicleParts>Interceptor_red
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Interceptor_Doors_Driver_red
+	Interceptor_Doors_coDriver_red
+	Interceptor_Doors_hood_red
+	Interceptor_Wheel
+	Interceptor_Wheel
+	Interceptor_Wheel
+	Interceptor_Wheel
+	Interceptor_Wheel
+
+<VehicleParts>Interceptor_yellow
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Interceptor_Doors_Driver_yellow
+	Interceptor_Doors_coDriver_yellow
+	Interceptor_Doors_hood_yellow
+	Interceptor_Wheel
+	Interceptor_Wheel
+	Interceptor_Wheel
+	Interceptor_Wheel
+	Interceptor_Wheel
+
+<VehicleParts>Kamaz_4350
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Kamaz_4350_Doors_Driver
+	Kamaz_4350_Doors_coDriver
+	Kamaz_4350_Doors_trunk
+	Kamaz_4350_Doors_hood
+	Kamaz_4350_tent
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+
+<VehicleParts>Kamaz_4350_flora
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Kamaz_4350_Doors_Driver_flora
+	Kamaz_4350_Doors_coDriver_flora
+	Kamaz_4350_Doors_trunk_flora
+	Kamaz_4350_Doors_hood_flora
+	Kamaz_4350_tent_flora
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+
+<VehicleParts>Kamaz_4350_pixel
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Kamaz_4350_Doors_Driver_pixel
+	Kamaz_4350_Doors_coDriver_pixel
+	Kamaz_4350_Doors_trunk_pixel
+	Kamaz_4350_Doors_hood_pixel
+	Kamaz_4350_tent_pixel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+
+<VehicleParts>Kamaz_4350_Kung
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Kamaz_4350_Doors_Driver
+	Kamaz_4350_Doors_coDriver
+	Kamaz_4350_Doors_cargo1
+	Kamaz_4350_Doors_cargo2
+	Kamaz_4350_Doors_cargo3
+	Kamaz_4350_Doors_cargo4
+	Kamaz_4350_Doors_hood
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+
+<VehicleParts>Kamaz_4350_Kung_black
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Kamaz_4350_Doors_Driver_black
+	Kamaz_4350_Doors_coDriver_black
+	Kamaz_4350_Doors_cargo1_black
+	Kamaz_4350_Doors_cargo2_black
+	Kamaz_4350_Doors_cargo3_black
+	Kamaz_4350_Doors_cargo4_black
+	Kamaz_4350_Doors_hood_black
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+
+<VehicleParts>Kamaz_4350_Kung_winter
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Kamaz_4350_Doors_Driver_winter
+	Kamaz_4350_Doors_coDriver_winter
+	Kamaz_4350_Doors_cargo1_winter
+	Kamaz_4350_Doors_cargo2_winter
+	Kamaz_4350_Doors_cargo3_winter
+	Kamaz_4350_Doors_cargo4_winter
+	Kamaz_4350_Doors_hood_winter
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+	Kamaz_4350_Wheel
+
+<VehicleParts>LandCruiser
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	LandCruiser_Doors_Driver
+	LandCruiser_Doors_coDriver
+	LandCruiser_Doors_hood
+	LandCruiser_Doors_cargo1
+	LandCruiser_Doors_cargo2
+	LandCruiser_Doors_cargo3
+	LandCruiser_Doors_cargo4
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+
+<VehicleParts>LandCruiser_kamo
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	LandCruiser_Doors_Driver_kamo
+	LandCruiser_Doors_coDriver_kamo
+	LandCruiser_Doors_hood_kamo
+	LandCruiser_Doors_cargo1_kamo
+	LandCruiser_Doors_cargo2_kamo
+	LandCruiser_Doors_cargo3_kamo
+	LandCruiser_Doors_cargo4_kamo
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+
+<VehicleParts>LandCruiser_skul
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	LandCruiser_Doors_Driver_skul
+	LandCruiser_Doors_coDriver_skul
+	LandCruiser_Doors_hood_skul
+	LandCruiser_Doors_cargo1_skul
+	LandCruiser_Doors_cargo2_skul
+	LandCruiser_Doors_cargo3_skul
+	LandCruiser_Doors_cargo4_skul
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+
+<VehicleParts>LandCruiser_white
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	LandCruiser_Doors_Driver_white
+	LandCruiser_Doors_coDriver_white
+	LandCruiser_Doors_hood_white
+	LandCruiser_Doors_cargo1_white
+	LandCruiser_Doors_cargo2_white
+	LandCruiser_Doors_cargo3_white
+	LandCruiser_Doors_cargo4__white
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+
+<VehicleParts>LUAZ_rust
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	LUAZ_Doors_Driver_rust
+	LUAZ_Doors_coDriver_rust
+	LUAZ_Doors_hood_rust
+	LUAZ_Doors_trunk_rust
+	LUAZ_tent_rust
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+
+<VehicleParts>MUSTANG
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	MUSTANG_Doors_Driver
+	MUSTANG_Doors_coDriver
+	MUSTANG_Doors_hood
+	MUSTANG_Doors_trunk
+	MUSTANG_Wheel
+	MUSTANG_Wheel
+	MUSTANG_Wheel
+	MUSTANG_Wheel	
+
+<VehicleParts>MUSTANG_red
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	MUSTANG_Doors_Driver_red
+	MUSTANG_Doors_coDriver_red
+	MUSTANG_Doors_hood_red
+	MUSTANG_Doors_trunk_red
+	MUSTANG_Wheel
+	MUSTANG_Wheel
+	MUSTANG_Wheel
+	MUSTANG_Wheel	
+
+<VehicleParts>Nissan_warrior
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Nissan_warrior_Doors_Driver
+	Nissan_warrior_Doors_coDriver
+	Nissan_warrior_Doors_cargo1
+	Nissan_warrior_Doors_cargo2
+	Nissan_warrior_Doors_hood
+	Nissan_warrior_Doors_trunk
+	Nissan_warrior_Wheel
+	Nissan_warrior_Wheel
+	Nissan_warrior_Wheel
+	Nissan_warrior_Wheel
+	Nissan_warrior_Wheel	
+
+<VehicleParts>Nissan_warrior_blue
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Nissan_warrior_Doors_Driver_blue
+	Nissan_warrior_Doors_coDriver_blue
+	Nissan_warrior_Doors_cargo1_blue
+	Nissan_warrior_Doors_cargo2_blue
+	Nissan_warrior_Doors_hood_blue
+	Nissan_warrior_Doors_trunk_blue
+	Nissan_warrior_Wheel
+	Nissan_warrior_Wheel
+	Nissan_warrior_Wheel
+	Nissan_warrior_Wheel
+	Nissan_warrior_Wheel	
+
+<VehicleParts>Nissan_warrior_white_kamo
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Nissan_warrior_Doors_Driver_white_kamo
+	Nissan_warrior_Doors_coDriver_white_kamo
+	Nissan_warrior_Doors_cargo1_white_kamo
+	Nissan_warrior_Doors_cargo2_white_kamo
+	Nissan_warrior_Doors_hood_white_kamo
+	Nissan_warrior_Doors_trunk_white_kamo
+	Nissan_warrior_Wheel
+	Nissan_warrior_Wheel
+	Nissan_warrior_Wheel
+	Nissan_warrior_Wheel
+	Nissan_warrior_Wheel	
+
+<VehicleParts>NivaPickup
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	NivaPickup_Doors_Driver
+	NivaPickup_Doors_coDriver
+	NivaPickup_Doors_hood
+	NivaPickup_Doors_trunk
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel	
+
+<VehicleParts>NivaPickup_red
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	NivaPickup_Doors_Driver_red
+	NivaPickup_Doors_coDriver_red
+	NivaPickup_Doors_hood_red
+	NivaPickup_Doors_trunk_red
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel	
+
+<VehicleParts>NivaPickup_skul
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	NivaPickup_Doors_Driver_skul
+	NivaPickup_Doors_coDriver_skul
+	NivaPickup_Doors_hood_skul
+	NivaPickup_Doors_trunk_skul
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel	
+
+<VehicleParts>NivaPickup_kamo2
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	NivaPickup_Doors_Driver_kamo2
+	NivaPickup_Doors_coDriver_kamo2
+	NivaPickup_Doors_hood_kamo2
+	NivaPickup_Doors_trunk_kamo2
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel	
+
+<VehicleParts>Novator
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Novator_Doors_Driver
+	Novator_Doors_coDriver
+	Novator_Doors_cargo1
+	Novator_Doors_cargo2
+	Novator_Doors_cargo3
+	Novator_Doors_cargo4
+	Novator_Doors_hood
+	Novator_Doors_trunk
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel	
+
+<VehicleParts>Novator_Flecktarn
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Novator_Doors_Driver_Flecktarn
+	Novator_Doors_coDriver_Flecktarn
+	Novator_Doors_cargo1_Flecktarn
+	Novator_Doors_cargo2_Flecktarn
+	Novator_Doors_cargo3_Flecktarn
+	Novator_Doors_cargo4_Flecktarn
+	Novator_Doors_hood_Flecktarn
+	Novator_Doors_trunk_Flecktarn
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel	
+
+<VehicleParts>Novator_Pixel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Novator_Doors_Driver_Pixel
+	Novator_Doors_coDriver_Pixel
+	Novator_Doors_cargo1_Pixel
+	Novator_Doors_cargo2_Pixel
+	Novator_Doors_cargo3_Pixel
+	Novator_Doors_cargo4_Pixel
+	Novator_Doors_hood_Pixel
+	Novator_Doors_trunk_Pixel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel	
+
+<VehicleParts>Range_Rover_dazzle_black
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Range_Rover_Doors_Driver_dazzle_black
+	Range_Rover_Doors_coDriver_dazzle_black
+	Range_Rover_Doors_cargo1_dazzle_black
+	Range_Rover_Doors_cargo2_dazzle_black
+	Range_Rover_Doors_hood_dazzle_black
+	Range_Rover_Doors_trunk_dazzle_black
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	Range_Rover_Wheel	
+
+<VehicleParts>Range_Rover_light_green
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Range_Rover_Doors_Driver_light_green
+	Range_Rover_Doors_coDriver_light_green
+	Range_Rover_Doors_cargo1_light_green
+	Range_Rover_Doors_cargo2_light_green
+	Range_Rover_Doors_hood_light_green
+	Range_Rover_Doors_trunk_light_green
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	Range_Rover_Wheel	
+
+<VehicleParts>ROVER_camoOLD
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	ROVER_Doors_Driver_camoOLD
+	ROVER_Doors_coDriver_camoOLD
+	ROVER_Doors_hood_camoOLD
+	ROVER_Doors_trunk_camoOLD
+	ROVER_tent_camoOLD
+	ROVER_Wheel
+	ROVER_Wheel
+	ROVER_Wheel
+	ROVER_Wheel
+	ROVER_Wheel
+
+<VehicleParts>SCOUT_Black
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	COUT_Doors_Driver
+	SCOUT_Doors_coDriver
+	SCOUT_Doors_hood 
+	SCOUT_Doors_trunk
+	SCOUT_Doors_cargo1
+	SCOUT_vizor
+	SCOUT_Wheel
+	SCOUT_Wheel
+	SCOUT_Wheel
+	SCOUT_Wheel
+	SCOUT_Wheel
+
+<VehicleParts>SUV
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	SUV_Doors_Driver
+	SUV_Doors_coDriver
+	SUV_Doors_hood
+	SUV_Doors_cargo1
+	SUV_Doors_cargo2
+	SUV_Doors_trunk
+	SUV_Wheel
+	SUV_Wheel
+	SUV_Wheel
+	SUV_Wheel
+	SUV_Wheel
+
+<VehicleParts>SUV_kamo
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	SUV_Doors_Driver_kamo
+	SUV_Doors_coDriver_kamo
+	SUV_Doors_hood_kamo
+	SUV_Doors_cargo1_kamo
+	SUV_Doors_cargo2_kamo
+	SUV_Doors_trunk_kamo
+	SUV_Wheel
+	SUV_Wheel
+	SUV_Wheel
+	SUV_Wheel
+	SUV_Wheel
+
+<VehicleParts>SUV_white
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	SUV_Doors_Driver_white
+	SUV_Doors_coDriver_white
+	SUV_Doors_hood_white
+	SUV_Doors_cargo1_white
+	SUV_Doors_cargo2_white
+	SUV_Doors_trunk_white
+	SUV_Wheel
+	SUV_Wheel
+	SUV_Wheel
+	SUV_Wheel
+	SUV_Wheel
+
+<VehicleParts>TLC_200
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	TLC_200_Doors_Driver
+	TLC_200_Doors_coDriver
+	TLC_200_Doors_hood
+	TLC_200_Doors_cargo1
+	TLC_200_Doors_cargo2
+	TLC_200_Doors_cargo3
+	TLC_200_Doors_cargo4
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+
+<VehicleParts>TLC_200_kamo
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	TLC_200_Doors_Driver_kamo
+	TLC_200_Doors_coDriver_kamo
+	TLC_200_Doors_hood_kamo
+	TLC_200_Doors_cargo1_kamo
+	TLC_200_Doors_cargo2_kamo
+	TLC_200_Doors_cargo3_kamo
+	TLC_200_Doors_cargo4_kamo
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+
+<VehicleParts>TLC_200_blood
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	TLC_200_Doors_Driver_blood
+	TLC_200_Doors_coDriver_blood
+	TLC_200_Doors_hood_blood
+	TLC_200_Doors_cargo1_blood
+	TLC_200_Doors_cargo2_blood
+	TLC_200_Doors_cargo3_blood
+	TLC_200_Doors_cargo4_blood
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+
+<VehicleParts>UAZ_3909
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	UAZ_3909_Doors_Driver
+	UAZ_3909_Doors_coDriver
+	UAZ_3909_Doors_cargo1
+	UAZ_3909_Doors_cargo2
+	UAZ_3909_Doors_hood 
+	UAZ_3909_Doors_cargo3
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+
+<VehicleParts>VAZ_2108
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	VAZ_2108_Doors_Driver
+	VAZ_2108_Doors_coDriver
+	VAZ_2108_Doors_hood
+	VAZ_2108_Doors_trunk
+	VAZ_2108_Wheel
+	VAZ_2108_Wheel
+	VAZ_2108_Wheel
+	VAZ_2108_Wheel
+	VAZ_2108_Wheel
+
+<VehicleParts>VAZ_2108_red
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	VAZ_2108_Doors_Driver_red
+	VAZ_2108_Doors_coDriver_red
+	VAZ_2108_Doors_hood_red
+	VAZ_2108_Doors_trunk_red
+	VAZ_2108_Wheel
+	VAZ_2108_Wheel
+	VAZ_2108_Wheel
+	VAZ_2108_Wheel
+	VAZ_2108_Wheel
+
+<VehicleParts>VAZ_2108_yellow
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	VAZ_2108_Doors_Driver_yellow
+	VAZ_2108_Doors_coDriver_yellow
+	VAZ_2108_Doors_hood_yellow
+	VAZ_2108_Doors_trunk_yellow
+	VAZ_2108_Wheel
+	VAZ_2108_Wheel
+	VAZ_2108_Wheel
+	VAZ_2108_Wheel
+	VAZ_2108_Wheel
+	
+	
+//<OpenFile> FileName.txt// Links to another File; Must be right above <FileEnd>!
+<FileEnd>	// This has to be on the End of this File and is very importand!

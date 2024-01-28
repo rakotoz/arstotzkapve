@@ -1,0 +1,439 @@
+{
+  "Version": "2.5",
+  "ConvertTraderConfigToTraderPlus": 0,
+  "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
+  "UseGarageToTradeCar": 1,
+  "DisableHeightFailSafeForReceiptDeployment": 0,
+  "HideInsuranceBtn": 1,
+  "HideGarageBtn": 1,
+  "HideLicenceBtn": 0,
+  "EnableShowAllPrices": 1,
+  "EnableShowAllCheckBox": 0,
+  "IsReceiptTraderOnly": 0,
+  "IsReceiptSaveLock": 0,
+  "IsReceiptSaveAttachment": 1,
+  "IsReceiptSaveCargo": 1,
+  "LockPickChance": 0,
+  "LicenceKeyWord": "Лицензия",
+  "Licences": [
+    "Admin Licence",
+    "Farm Licence"
+  ],
+  "AcceptedStates": {
+    "AcceptWorn": 1,
+    "AcceptDamaged": 1,
+    "AcceptBadlyDamaged": 1,
+    "CoefficientWorn": 0.75,
+    "CoefficientDamaged": 0.5,
+    "CoefficientBadlyDamaged": 0.25
+  },
+  "StoreOnlyToPristineState": 0,
+  "Currencies": [
+    {
+      "ClassName": "TraderPlus_Money_Ruble500",
+      "Value": 500
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble100",
+      "Value": 100
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble50",
+      "Value": 50
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble20",
+      "Value": 20
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble10",
+      "Value": 10
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble5",
+      "Value": 5
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble2_Coin",
+      "Value": 2
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble1_Coin",
+      "Value": 1
+    }
+  ],
+  "Traders": [
+    {
+      "Id": 0,
+      "Name": "BVM_VendingMachine_food",
+      "GivenName": "Еда",
+      "Role": "Food Trader",
+      "Position": [
+        9590.26953,
+        241.311005,
+        11382.2002
+      ],
+      "Orientation": [
+        -141.199005,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 0,
+      "Name": "BVM_VendingMachine_food",
+      "GivenName": "Еда",
+      "Role": "Food Trader",
+      "Position": [
+        3686.51001,
+        402.053986,
+        5959.16992
+      ],
+      "Orientation": [
+        60.5882988,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 1,
+      "Name": "BVM_VendingMachine_weapons",
+      "GivenName": "Оружие",
+      "Role": "Weapon Trader",
+      "Position": [
+        9559.25977,
+        240.477005,
+        11380.7002
+      ],
+      "Orientation": [
+        127.918999,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 1,
+      "Name": "BVM_VendingMachine_weapons",
+      "GivenName": "Оружие",
+      "Role": "Weapon Trader",
+      "Position": [
+        3725.30005,
+        402.130005,
+        5978.68994
+      ],
+      "Orientation": [
+        -145.360001,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 2,
+      "Name": "BVM_VendingMachine_tools",
+      "GivenName": "Инструменты",
+      "Role": "Tool Trader",
+      "Position": [
+        9584.83984,
+        241.278,
+        11386.5
+      ],
+      "Orientation": [
+        -140.723007,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 2,
+      "Name": "BVM_VendingMachine_tools",
+      "GivenName": "Инструменты",
+      "Role": "Tool Trader",
+      "Position": [
+        3722.68994,
+        402.253998,
+        5959.99023
+      ],
+      "Orientation": [
+        -29.4547997,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 3,
+      "Name": "BVM_VendingMachine_clothing",
+      "GivenName": "Одежда",
+      "Role": "Clothes Trader",
+      "Position": [
+        9575,
+        241.197006,
+        11394.4004
+      ],
+      "Orientation": [
+        -140.509003,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 3,
+      "Name": "BVM_VendingMachine_clothing",
+      "GivenName": "Одежда",
+      "Role": "Clothes Trader",
+      "Position": [
+        3727.04004,
+        402.095001,
+        5972.24023
+      ],
+      "Orientation": [
+        -135.356995,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 4,
+      "Name": "BVM_VendingMachine_vehicles",
+      "GivenName": "Машины",
+      "Role": "Car Trader",
+      "Position": [
+        9559.01953,
+        239.770004,
+        11371.7002
+      ],
+      "Orientation": [
+        -138.003006,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 4,
+      "Name": "BVM_VendingMachine_vehicles",
+      "GivenName": "Машины",
+      "Role": "Car Trader",
+      "Position": [
+        3688.02002,
+        402.011993,
+        5991.70996
+      ],
+      "Orientation": [
+        55.9743996,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 5,
+      "Name": "BVM_VendingMachine_medical",
+      "GivenName": "Медицина",
+      "Role": "Medical Trader",
+      "Position": [
+        9593.25,
+        241.268997,
+        11377.0996
+      ],
+      "Orientation": [
+        -51.615799,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 5,
+      "Name": "BVM_VendingMachine_medical",
+      "GivenName": "Медицина",
+      "Role": "Medical Trader",
+      "Position": [
+        3685.13989,
+        402.053986,
+        5961.87012
+      ],
+      "Orientation": [
+        69.8279037,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 6,
+      "Name": "BVM_VendingMachine_hunting",
+      "GivenName": "Охотник",
+      "Role": "Hunting Trader",
+      "Position": [
+        2522.1499,
+        361.68399,
+        7559.91016
+      ],
+      "Orientation": [
+        24.8320007,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 7,
+      "Name": "BVM_VendingMachine_building",
+      "GivenName": "Строительство",
+      "Role": "Base Building Trader",
+      "Position": [
+        9582.5498,
+        241.261002,
+        11388.4004
+      ],
+      "Orientation": [
+        -141.251999,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 7,
+      "Name": "BVM_VendingMachine_building",
+      "GivenName": "Строительство",
+      "Role": "Base Building Trader",
+      "Position": [
+        3719.96997,
+        402.138,
+        5958.8999
+      ],
+      "Orientation": [
+        -14.6704998,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 8,
+      "Name": "BVM_VendingMachine_ammunition",
+      "GivenName": "Патроны и улучшения",
+      "Role": "Ammunition Trader",
+      "Position": [
+        9556.90039,
+        240.337997,
+        11377.9004
+      ],
+      "Orientation": [
+        127.791,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 8,
+      "Name": "BVM_VendingMachine_ammunition",
+      "GivenName": "Патроны и улучшения",
+      "Role": "Ammunition Trader",
+      "Position": [
+        3726.26001,
+        402.130005,
+        5975.66992
+      ],
+      "Orientation": [
+        -73.3572006,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 9,
+      "Name": "BVM_VendingMachine_blackmarket",
+      "GivenName": "Черный торговец",
+      "Role": "Black Trader",
+      "Position": [
+        12542.9004,
+        154.768997,
+        6709.85986
+      ],
+      "Orientation": [
+        -7.64488983,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 10,
+      "Name": "BVM_VendingMachine_farming",
+      "GivenName": "Фермер",
+      "Role": "Farming Trader",
+      "Position": [
+        6654.75,
+        354.626007,
+        8452.37988
+      ],
+      "Orientation": [
+        -135,
+        -0.756200016,
+        7.47116995
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 12,
+      "Name": "BVM_VendingMachine_blackmarket",
+      "GivenName": "Черный торговец - машины",
+      "Role": "Black Trader",
+      "Position": [
+        12533.7002,
+        156.324997,
+        6731.83008
+      ],
+      "Orientation": [
+        51.0124016,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 13,
+      "Name": "BVM_VendingMachine_military_clothing",
+      "GivenName": "Военная амуниция",
+      "Role": "Millitary Ammunition Trader",
+      "Position": [
+        3727.79004,
+        402.095001,
+        5968.31982
+      ],
+      "Orientation": [
+        -65.8235016,
+        0,
+        0
+      ],
+      "Clothes": []
+    }
+  ],
+  "TraderObjects": [
+    {
+      "ObjectName": "RFTrash_Dumpster_Clean_Blue",
+      "Position": [
+        3713.90991,
+        402.105988,
+        5970
+      ],
+      "Orientation": [
+        76.0130005,
+        0,
+        0
+      ]
+    }
+  ]
+}
