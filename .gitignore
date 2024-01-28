@@ -1,10 +1,40 @@
-@*
+@BetterVendingMachines
+@BuilderItems
+@CannabisPlus
+@CF
+@COCAs_NoVehicleDamageMOD
+@Code Lock
+@Community-Online-Tools
+@CPBWeapons
+@Dabs Framework
+@DayZ-Expansion
+@DayZ-Expansion-AI
+@DayZ-Expansion-Book
+@DayZ-Expansion-Chat
+@DayZ-Expansion-Core
+@DayZ-Expansion-Groups
+@DayZ-Expansion-Missions
+@DayZ-Expansion-Name-Tags
+@DayZ-Expansion-Navigation
+@DayZ-Expansion-Quests
+@DayZ-Expansion-Spawn-Selection
+@DayZ Editor Loader
+@Erapulsar_Zombies
+@ESP_Players_Trade_Fix
+@ESPPlayers
+@FC_Fish_Equip
+@FlipTransport
+@MMG - Mightys Military Gear
+@Notifications
+@PvZmoD_CustomisableZombies
+@RedFalcon Trash
+@SchanaModGlobalChat
+@Survivor Missions
+@TraderPlus
 logs/
 *.log
 *.RPT
 *.pbo
-*.bikey
-*.bisign
 profiles/TraderPlus/TraderPlusDatabase/*
 profiles/ExpansionMod/Quests/PlayerData/*
 profiles/ExpansionMod/Quests/GroupData/*
