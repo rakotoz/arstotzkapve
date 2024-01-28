@@ -1,0 +1,94 @@
+{
+    "version": 2,
+    "admins": [
+        {
+            "steamid": "76561198141097113",
+            "ingameNameForPermissions": "",
+            "comment": "Remove Me",
+            "grantAllPermissions": 1,
+            "permissionGroups": [
+                "Owner"
+            ]
+        },
+        {
+            "steamid": "SteamiID Here",
+            "ingameNameForPermissions": "",
+            "comment": "Another Admin",
+            "grantAllPermissions": 0,
+            "permissionGroups": [
+                "Admin"
+            ]
+        },
+        {
+            "steamid": "I also need a Steamid",
+            "ingameNameForPermissions": "Peter",
+            "comment": "And a third one",
+            "grantAllPermissions": 0,
+            "permissionGroups": [
+                "Support"
+            ]
+        }
+    ],
+    "groups": [
+        {
+            "name": "Owner",
+            "permissions": {
+                "appearance.change": 1,
+                "atm.position.change": 1,
+                "atm.moneydrop": 1,
+                "atm.group.change": 1,
+                "adminmenu.open": 1,
+                "currencies.change": 1,
+                "icons.change": 1,
+                "atm.player.change": 1,
+                "atm.general.change": 1,
+                "atm.general.view": 1
+            }
+        },
+        {
+            "name": "Admin",
+            "permissions": {
+                "appearance.change": 1,
+                "atm.position.change": 1,
+                "atm.moneydrop": 1,
+                "atm.group.change": 1,
+                "adminmenu.open": 1,
+                "currencies.change": 1,
+                "icons.change": 1,
+                "atm.player.change": 1,
+                "atm.general.change": 1,
+                "atm.general.view": 1
+            }
+        },
+        {
+            "name": "Moderator",
+            "permissions": {
+                "appearance.change": 0,
+                "atm.position.change": 0,
+                "atm.moneydrop": 0,
+                "atm.group.change": 1,
+                "adminmenu.open": 1,
+                "currencies.change": 0,
+                "icons.change": 0,
+                "atm.player.change": 1,
+                "atm.general.change": 0,
+                "atm.general.view": 1
+            }
+        },
+        {
+            "name": "Support",
+            "permissions": {
+                "appearance.change": 0,
+                "atm.position.change": 0,
+                "atm.moneydrop": 0,
+                "atm.group.change": 0,
+                "adminmenu.open": 1,
+                "currencies.change": 0,
+                "icons.change": 0,
+                "atm.player.change": 0,
+                "atm.general.change": 0,
+                "atm.general.view": 0
+            }
+        }
+    ]
+}

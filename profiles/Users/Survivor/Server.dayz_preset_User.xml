@@ -991,11 +991,14 @@
             <btn name="kN" />
         </btn>
     </input>
-    <input name="UAAdvancedBanking">
-        <btn name="kB" />
-    </input>
     <input name="UABetterInspect">
         <btn name="kB" />
+    </input>
+    <input name="UALBAdminMenuToggle">
+        <btn name="kU" />
+    </input>
+    <input name="UALBAdminMenuOpen">
+        <btn name="kI" />
     </input>
     <input name="PvZmoD_CZ_RefreshJsonVariables">
         <btn name="kNumpad4" />
