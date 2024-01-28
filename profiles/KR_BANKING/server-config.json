@@ -84,28 +84,51 @@
             ],
             "CanBeRobbed": 0,
             "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                3716.14990234375,
+                402.1059875488281,
+                5976.7099609375
+            ],
+            "Direction": [
+                -5.545219898223877,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
         }
     ],
     "BankingCurrency": [
         {
-            "CurrencyName": "TraderPlus_Money_Ruble500",
+            "CurrencyName": "Arz_Ruble500",
             "CurrencyValue": 500
         },
         {
-            "CurrencyName": "TraderPlus_Money_Ruble100",
+            "CurrencyName": "Arz_Ruble100",
             "CurrencyValue": 100
         },
         {
-            "CurrencyName": "TraderPlus_Money_Ruble50",
+            "CurrencyName": "Arz_Ruble50",
             "CurrencyValue": 50
         },
         {
-            "CurrencyName": "TraderPlus_Money_Ruble20",
+            "CurrencyName": "Arz_Ruble20",
             "CurrencyValue": 20
         },
         {
-            "CurrencyName": "TraderPlus_Money_Ruble10",
+            "CurrencyName": "Arz_Ruble10",
             "CurrencyValue": 10
+        },
+        {
+            "CurrencyName": "Arz_Ruble5",
+            "CurrencyValue": 5
+        },
+        {
+            "CurrencyName": "Arz_Ruble1",
+            "CurrencyValue": 1
         }
     ]
 }

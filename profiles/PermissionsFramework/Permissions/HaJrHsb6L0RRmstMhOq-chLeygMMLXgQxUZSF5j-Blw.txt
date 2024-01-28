@@ -1,3 +1,10 @@
+Expansion 0
+Expansion.EntityStorage 0
+Expansion.EntityStorage.Goatify 1
+Expansion.Groups 0
+Expansion.Groups.View 0
+Expansion.Groups.EditGroup 0
+Expansion.Groups.DeleteGroup 0
 Admin 0
 Admin.Chat 0
 Admin.Player 0
@@ -46,11 +53,6 @@ Admin.Map.View 0
 Admin.Map.Players 0
 Admin.Roles 0
 Admin.Roles.Update 0
-Expansion 0
-Expansion.Groups 0
-Expansion.Groups.View 0
-Expansion.Groups.EditGroup 0
-Expansion.Groups.DeleteGroup 0
 COT 0
 COT.View 0
 Entity 0
@@ -127,7 +129,3 @@ Weather.Preset.Create 0
 Weather.Preset.Update 0
 Weather.Preset.Remove 0
 Weather.View 0
-FlipTransport 0
-FlipTransport.Settings 0
-FlipTransport.Settings.View 0
-FlipTransport.Settings.Save 0

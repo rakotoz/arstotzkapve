@@ -1,0 +1,196 @@
+{
+    "isActive": 1,
+    "TimeAmount": 14400,
+    "ResetHour": 4,
+    "showWheelTimerOnHud": 1,
+    "fieldOfMiraclesSound": 1,
+    "Prizes": [
+        {
+            "PrizeName": "1000 рублей",
+            "Items": [
+                {
+                    "ItemType": "Arz_Ruble500",
+                    "ItemQuantity": 2,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "hatchet",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 50.0,
+            "showNotificationToAllPlayers": 0,
+            "NotificationText": "",
+            "givePrizeOnlyInHands": 0
+        },
+        {
+            "PrizeName": "СТРОЙ ЛУТ",
+            "Items": [
+                {
+                    "ItemType": "NailBox",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": [
+                        {
+                            "ItemType": "Pliers",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "HandSaw",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "hatchet",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "hammer",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        }
+                    ]
+                }
+            ],
+            "PrizeChance": 5.0,
+            "showNotificationToAllPlayers": 0,
+            "NotificationText": "",
+            "givePrizeOnlyInHands": 0
+        },
+        {
+            "PrizeName": "1 рубля",
+            "Items": [
+                {
+                    "ItemType": "Arz_Ruble1",
+                    "ItemQuantity": 1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 0.10000000149011612,
+            "showNotificationToAllPlayers": 1,
+            "NotificationText": "получает ценный приз!",
+            "givePrizeOnlyInHands": 0
+        },
+        {
+            "PrizeName": "Кейс на 50 слотов",
+            "Items": [
+                {
+                    "ItemType": "Arz_HugeProtectorCase_50x",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 5.0,
+            "showNotificationToAllPlayers": 0,
+            "NotificationText": "",
+            "givePrizeOnlyInHands": 1
+        },
+        {
+            "PrizeName": "Кейс на 100 слотов",
+            "Items": [
+                {
+                    "ItemType": "Arz_HugeProtectorCase_100x",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 0.4000000059604645,
+            "showNotificationToAllPlayers": 1,
+            "NotificationText": "получает ценный приз!",
+            "givePrizeOnlyInHands": 1
+        },
+        {
+            "PrizeName": "Кейс на 200 слотов",
+            "Items": [
+                {
+                    "ItemType": "Arz_HugeProtectorCase_200x",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 0.20000000298023225,
+            "showNotificationToAllPlayers": 1,
+            "NotificationText": "получает ценный приз!",
+            "givePrizeOnlyInHands": 1
+        },
+        {
+            "PrizeName": "50 рубля",
+            "Items": [
+                {
+                    "ItemType": "Arz_Ruble50",
+                    "ItemQuantity": 1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 0.20000000298023225,
+            "showNotificationToAllPlayers": 1,
+            "NotificationText": "получает ценный приз!",
+            "givePrizeOnlyInHands": 0
+        },
+        {
+            "PrizeName": "20 рубля",
+            "Items": [
+                {
+                    "ItemType": "Arz_Ruble20",
+                    "ItemQuantity": 1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 10.0,
+            "showNotificationToAllPlayers": 1,
+            "NotificationText": "",
+            "givePrizeOnlyInHands": 0
+        },
+        {
+            "PrizeName": "Миниган 500р",
+            "Items": [
+                {
+                    "ItemType": "Arz_Ruble500",
+                    "ItemQuantity": 1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 0.10000000149011612,
+            "showNotificationToAllPlayers": 1,
+            "NotificationText": "получает ценный приз!",
+            "givePrizeOnlyInHands": 0
+        },
+        {
+            "PrizeName": "Автомобильная палатка",
+            "Items": [
+                {
+                    "ItemType": "Arz_Ruble500",
+                    "ItemQuantity": 2,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "Arz_Ruble500",
+                    "ItemQuantity": 1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 29.0,
+            "showNotificationToAllPlayers": 0,
+            "NotificationText": "",
+            "givePrizeOnlyInHands": 0
+        }
+    ]
+}
