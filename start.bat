@@ -1,7 +1,7 @@
 @echo off
 :start
 ::Server name
-set serverName=DayZ Test Server
+set serverName = "Арстотцка|PVE"
 ::Server files location
 set serverLocation="D:\Games\SteamLibrary\steamapps\common\DayZServer"
 ::Server Port
@@ -16,7 +16,7 @@ title %serverName% batch
 cd "%serverLocation%"
 echo (%time%) %serverName% started.
 ::Launch parameters (edit end: -config=|-port=|-profiles=|-doLogs|-adminLog|-netLog|-freezeCheck|-filePatching|-BEpath=|-cpuCount=)
-start "DayZ Server" /min "DayZServer_x64.exe" "-mod=@CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion;@DayZ-Expansion-Core;@DayZ-Expansion-Missions;@DayZ-Expansion-AI;@DayZ-Expansion-Quests;@DayZ-Expansion-Navigation;@DayZ-Expansion-Groups;@DayZ-Expansion-Book;@DayZ-Expansion-Spawn-Selection;@DayZ-Expansion-Chat;@DayZ-Expansion-Name-Tags;@Arstotzka Core;@Arstotzka items;@Arstotzka Menu;@ESPPlayers;@ESP_Players_Trade_Fix;@Code Lock;@RedFalcon Trash;@COCAs_NoVehicleDamageMOD;@CannabisPlus;@MMG - Mightys Military Gear;@CPBWeapons;@Erapulsar_Zombies;@BetterVendingMachines;@FC_Fish_Equip;@TraderPlus;@AdvancedBanking V2;" "-servermod=" -config=%serverConfig% -port=%serverPort% -profiles=profiles -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
+start "DayZ Server" /min "DayZServer_x64.exe" "-mod=@CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion;@DayZ-Expansion-Core;@DayZ-Expansion-Missions;@DayZ-Expansion-AI;@DayZ-Expansion-Quests;@DayZ-Expansion-Navigation;@DayZ-Expansion-Groups;@DayZ-Expansion-Book;@DayZ-Expansion-Spawn-Selection;@DayZ-Expansion-Chat;@DayZ-Expansion-Name-Tags;@Arstotzka Core;@Arstotzka items;@Arstotzka Menu;@ESPPlayers;@ESP_Players_Trade_Fix;@Code Lock;@RedFalcon Trash;@COCAs_NoVehicleDamageMOD;@CannabisPlus;@MMG - Mightys Military Gear;@CPBWeapons;@Erapulsar_Zombies;@BetterVendingMachines;@FC_Fish_Equip;@TraderPlus;@AdvancedBanking V2;" "-servermod=@Survivor Missions" -config=%serverConfig% -port=%serverPort% -profiles=profiles -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
 ::Time in seconds before kill server process (14400 = 4 hours)
 timeout 14390
 taskkill /im DayZServer_x64.exe /F

@@ -1,43 +1,38 @@
 {
     "version": 3,
     "thousandsSeparator": ".",
-    "currencyPrefix": "",
-    "currencySuffix": " кредит(ов)",
+    "currencyPrefix": "$",
+    "currencySuffix": "",
     "currencyValues": [
-      {
-        "itemclassname": "Arz_Ruble1",
-        "value": 1,
-        "depositableOnly": 0
-      },
-      {
-        "itemclassname": "Arz_Ruble5",
-        "value": 5,
-        "depositableOnly": 0
-      },
-      {
-        "itemclassname": "Arz_Ruble10",
-        "value": 10,
-        "depositableOnly": 0
-      },
-      {
-        "itemclassname": "Arz_Ruble20",
-        "value": 20,
-        "depositableOnly": 0
-      },
-      {
-        "itemclassname": "Arz_Ruble50",
-        "value": 50,
-        "depositableOnly": 0
-      },
-      {
-        "itemclassname": "Arz_Ruble100",
-        "value": 100,
-        "depositableOnly": 0
-      },
-      {
-        "itemclassname": "Arz_Ruble500",
-        "value": 500,
-        "depositableOnly": 0
-      }
+        {
+            "itemclassname": "MoneyRuble1",
+            "value": 1,
+            "depositableOnly": 0
+        },
+        {
+            "itemclassname": "MoneyRuble5",
+            "value": 5,
+            "depositableOnly": 0
+        },
+        {
+            "itemclassname": "MoneyRuble10",
+            "value": 10,
+            "depositableOnly": 0
+        },
+        {
+            "itemclassname": "MoneyRuble25",
+            "value": 25,
+            "depositableOnly": 0
+        },
+        {
+            "itemclassname": "MoneyRuble50",
+            "value": 50,
+            "depositableOnly": 0
+        },
+        {
+            "itemclassname": "MoneyRuble100",
+            "value": 100,
+            "depositableOnly": 0
+        }
     ]
 }

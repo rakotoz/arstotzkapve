@@ -2,23 +2,23 @@
     {
         "version": 4,
         "classname": "LB_ATM_Green",
-      "position": [
-        3716.14990234375,
-        402.1059875488281,
-        5976.7099609375
-      ],
-      "orientation": [
-        -5.545219898223877,
-        0.0,
-        0.0
-      ],
+        "position": [
+            3706.759033203125,
+            402.9024963378906,
+            5986.390625
+        ],
+        "orientation": [
+            -80.0,
+            0.0,
+            0.0
+        ],
         "robPosition": "Green Mountain",
         "canDepositMoney": 1,
         "canWithdrawMoney": 1,
         "maxRobbingDistance": 5.0,
         "spawnChance": 1.0,
         "canBeRobbed": 0,
-        "spawnRobbedMoneyAtATM": 0,
+        "spawnRobbedMoneyAtATM": 1,
         "robbingConfig": [
             {
                 "requiredRobbingItem": "",
@@ -31,8 +31,8 @@
         "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
         "lastLockedTimestamp": 0,
         "lastRobTime": 0,
-        "useDepositedCashToCalculateRobbedMoney": 0,
-        "cashDeposited": 2475,
+        "useDepositedCashToCalculateRobbedMoney": 1,
+        "cashDeposited": 0,
         "depositedCashIncreasePerMin": 20,
         "robbedDepositedCashPercent": 0.10000000149011612,
         "maxMoneyRobbedFromDepositedMoney": 20000,
@@ -46,15 +46,15 @@
         "classname": "LB_ATM_Green",
         "position": [
             3751.105224609375,
-            240.35800170898438,
-            11371.900390625
+            311.91680908203127,
+            8913.1943359375
         ],
         "orientation": [
-            -141.6157989501953,
+            -155.0,
             0.0,
             0.0
         ],
-        "robPosition": "Бардак",
+        "robPosition": "Vybor Police Station",
         "canDepositMoney": 1,
         "canWithdrawMoney": 1,
         "maxRobbingDistance": 5.0,
@@ -74,7 +74,7 @@
         "lastLockedTimestamp": 0,
         "lastRobTime": 0,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 1400,
+        "cashDeposited": 0,
         "depositedCashIncreasePerMin": 20,
         "robbedDepositedCashPercent": 0.10000000149011612,
         "maxMoneyRobbedFromDepositedMoney": 20000,
